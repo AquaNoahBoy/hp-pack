@@ -1,2 +1,2 @@
-# MCA-HP-pack
-McAmusement PACK
+# HP-pack
+HorizonParks PACK
