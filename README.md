@@ -1,2 +1,2 @@
 # HP-pack
-HorizonParks PACK
+HorizonParks Resource Pack, for use on the HorizonParks/McAmusement server ONLY
