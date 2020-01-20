@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_atlas": "items/custom/sealion"
+		"voxels_atlas": "items/custom/drew"
 	},
 	"elements": [ 	 
 		{
