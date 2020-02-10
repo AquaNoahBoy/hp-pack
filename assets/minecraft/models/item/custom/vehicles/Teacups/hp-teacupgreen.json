@@ -1,4 +1,5 @@
 {
+	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
@@ -41400,8 +41401,8 @@
 	],
 	"display": {
 		"head": {
-			"translation":  [ -19.15, 11.129, -3.4 ],
-			"scale":  [ 3, 3, 3 ]
+			"translation":  [ -16, 19.476, -2.775 ],
+			"scale":  [ 2.5, 2.5, 2.5 ]
 		}
 	}
 }
