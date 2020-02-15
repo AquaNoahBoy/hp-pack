@@ -4311,11 +4311,9 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-			"scale":  [ 1.45, 1.45, 1.45 ]
-		},
-		"thirdperson_lefthand": {
-			"scale":  [ 1.45, 1.45, 1.45 ]
+		"head": {
+			"rotation":  [ 90, -180, 0 ],
+			"scale":  [ 2.5, 2.5, 2.5 ]
 		}
 	}
 }
