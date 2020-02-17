@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "items/particle",
 		"texture": "items/texture",
-		"voxels_palette": "items/custom/motion"
+		"voxels_palette": "epcot/motion"
 	},
 	"elements": [ 	 
 		{

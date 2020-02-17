@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/stevety"
+		"voxels_palette": "cosmetics/hats/stevety"
 	},
 	"elements": [ 	 
 		{

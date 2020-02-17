@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/jii"
+		"voxels_palette": "epcot/jii"
 	},
 	"elements": [ 	 
 		{

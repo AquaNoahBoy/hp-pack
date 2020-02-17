@@ -51,7 +51,7 @@
 		{ "predicate": {"damaged": 1, "damage": 0.176}, "model": "item/custom/hats/hp-daisybowheadband"},
 		{ "predicate": {"damaged": 1, "damage": 0.18}, "model": "item/custom/hats/hp-aaronglasses"},
 		{ "predicate": {"damaged": 1, "damage": 0.184}, "model": "item/custom/hats/hp-alienheadband"},
-		{ "predicate": {"damaged": 1, "damage": 0.188}, "model": "item/custom/hats/hp-bandwminniehadbad"},
+		{ "predicate": {"damaged": 1, "damage": 0.188}, "model": "item/custom/hats/hp-bandwminnieheadband"},
 		{ "predicate": {"damaged": 1, "damage": 0.192}, "model": "item/custom/hats/hp-chess"},
 		{ "predicate": {"damaged": 1, "damage": 0.196}, "model": "item/custom/hats/hp-classicminnieheadband"},
 		{ "predicate": {"damaged": 1, "damage": 0.2}, "model": "item/custom/hats/hp-coolbglasses"},

@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"redt": "block/redt"
+		"redt": "side/tt/reddoor"
 	},
 	"elements": [ 	 
 		{

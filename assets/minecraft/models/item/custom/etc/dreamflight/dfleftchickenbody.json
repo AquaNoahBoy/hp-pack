@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/chickenbodyl"
+		"voxels_palette": "side/df/chickenbodyl"
 	},
 	"elements": [ 	 
 		{

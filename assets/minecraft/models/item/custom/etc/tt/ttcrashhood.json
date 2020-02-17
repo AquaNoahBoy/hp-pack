@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/e_particle",
 		"texture": "block/e_texture",
-		"voxels_palette": "block/colormesh"
+		"voxels_palette": "side/tt/ttcrashhood"
 	},
 	"elements": [ 	 
 		{

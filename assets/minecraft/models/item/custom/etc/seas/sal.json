@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"sal": "block/sal"
+		"sal": "epcot/sal"
 	},
 	"elements": [ 	 
 		{

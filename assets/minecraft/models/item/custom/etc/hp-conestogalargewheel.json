@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/conestogalarge"
+		"voxels_palette": "dl/conestogalarge"
 	},
 	"elements": [ 	 
 		{

@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/crown"
+		"voxels_palette": "cosmetics/hats/crown"
 	},
 	"elements": [ 	 
 		{

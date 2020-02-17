@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/hpresented"
+		"voxels_palette": "epcot/hpresented"
 	},
 	"elements": [ 	 
 		{

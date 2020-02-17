@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/happy"
+		"voxels_palette": "cosmetics/hats/happy"
 	},
 	"elements": [ 	 
 		{

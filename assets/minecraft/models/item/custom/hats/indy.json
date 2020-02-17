@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Majoris_br with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"indy": "items/custom/indy"
+		"indy": "cosmetics/hats/indy"
 	},
 	"elements": [ 	 
 		{

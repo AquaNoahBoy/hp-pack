@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"shark": "block/shark"
+		"shark": "epcot/shark"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Majoris_br with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"joey": "items/custom/joey"
+		"joey": "cosmetics/hats/joey"
 	},
 	"elements": [ 	 
 		{

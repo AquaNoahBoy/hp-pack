@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"wt": "block/wt"
+		"wt": "side/tt/whitedoor"
 	},
 	"elements": [ 	 
 		{

@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"motion": "block/motion"
+		"motion": "epcot/motionv"
 	},
 	"elements": [ 	 
 		{

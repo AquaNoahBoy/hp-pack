@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/brazil"
+		"voxels_palette": "cosmetics/wear/brazil"
 	},
 	"elements": [ 	 
 		{

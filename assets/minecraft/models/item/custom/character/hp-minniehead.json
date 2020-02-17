@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/minnieh"
+		"voxels_palette": "heads/minnieh"
 	},
 	"elements": [ 	 
 		{

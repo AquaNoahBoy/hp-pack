@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Majoris_br with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"oswald": "items/custom/oswald"
+		"oswald": "cosmetics/hats/oswald"
 	},
 	"elements": [ 	 
 		{

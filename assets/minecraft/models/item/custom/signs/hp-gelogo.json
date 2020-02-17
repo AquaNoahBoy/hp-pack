@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/gelogo"
+		"voxels_palette": "epcot/gelogo"
 	},
 	"elements": [ 	 
 		{

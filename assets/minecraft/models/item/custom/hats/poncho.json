@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/poncho"
+		"voxels_palette": "cosmetics/wear/poncho"
 	},
 	"elements": [ 	 
 		{

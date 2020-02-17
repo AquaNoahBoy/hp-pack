@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/teacupbaseo"
+		"voxels_palette": "dl/teacupbaseo"
 	},
 	"elements": [ 	 
 		{

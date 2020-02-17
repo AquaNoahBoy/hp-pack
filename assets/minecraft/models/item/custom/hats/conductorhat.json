@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/conductor"
+		"voxels_palette": "cosmetics/hats/conductor"
 	},
 	"elements": [ 	 
 		{

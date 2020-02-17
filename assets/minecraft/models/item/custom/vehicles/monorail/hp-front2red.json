@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_atlas": "items/custom/front2red"
+		"voxels_atlas": "monorail/front2red"
 	},
 	"elements": [ 	 
 		{

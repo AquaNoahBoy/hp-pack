@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "items/particle",
 		"texture": "items/texture",
-		"voxels_atlas": "items/custom/mnrlnoseyellow"
+		"voxels_atlas": "monorail/mnrlnoseyellow"
 	},
 	"elements": [ 	 
 		{

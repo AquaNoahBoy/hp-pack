@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/gmrback"
+		"voxels_palette": "mgm/gmrback"
 	},
 	"elements": [ 	 
 		{

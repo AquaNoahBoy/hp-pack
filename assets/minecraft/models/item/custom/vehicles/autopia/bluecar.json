@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Majoris_br with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"bluecar": "items/custom/bluecar"
+		"bluecar": "dl/bluecar"
 	},
 	"elements": [ 	 
 		{

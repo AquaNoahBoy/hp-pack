@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "items/custom/turntbl"
+		"voxels_palette": "side/df/turntbl"
 	},
 	"elements": [ 	 
 		{

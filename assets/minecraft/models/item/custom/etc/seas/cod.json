@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"cod": "block/cod"
+		"cod": "epcot/cod"
 	},
 	"elements": [ 	 
 		{

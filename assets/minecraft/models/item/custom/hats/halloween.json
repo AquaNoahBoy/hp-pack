@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Majoris_br with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"boo": "items/custom/boo"
+		"boo": "cosmetics/hats/boo"
 	},
 	"elements": [ 	 
 		{

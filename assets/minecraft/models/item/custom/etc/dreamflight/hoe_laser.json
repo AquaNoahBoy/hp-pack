@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Ericwilson54645645 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "items/hoe_laser"
+		"texture": "side/df/hoe_laser"
 	},
 	"elements": [ 	 
 		{

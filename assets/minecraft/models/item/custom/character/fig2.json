@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "items/particle",
 		"texture": "items/texture",
-		"voxels_palette": "items/custom/figpup2"
+		"voxels_palette": "epcot/figpup2"
 	},
 	"elements": [ 	 
 		{

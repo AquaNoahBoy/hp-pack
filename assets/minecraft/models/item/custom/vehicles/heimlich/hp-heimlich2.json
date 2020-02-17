@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Ericwilson54645645 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "items/custom/heimlich2"
+		"texture": "side/bl/heimlich2"
 	},
 	"elements": [ 	 
 		{

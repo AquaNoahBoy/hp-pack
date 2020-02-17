@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/mm1"
+		"voxels_palette": "side/pp/mm1"
 	},
 	"elements": [ 	 
 		{

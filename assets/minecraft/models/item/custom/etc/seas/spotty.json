@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/e_particle",
 		"texture": "block/e_texture",
-		"spotty": "block/spotty"
+		"spotty": "epcot/spotty"
 	},
 	"elements": [ 	 
 		{

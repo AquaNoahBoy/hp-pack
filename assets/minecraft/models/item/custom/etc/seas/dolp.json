@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/e_particle",
 		"texture": "block/e_texture",
-		"dolp": "block/dolp"
+		"dolp": "epcot/dolp"
 	},
 	"elements": [ 	 
 		{

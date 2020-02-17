@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/farmerhead"
+		"voxels_palette": "side/df/farmerhead"
 	},
 	"elements": [ 	 
 		{

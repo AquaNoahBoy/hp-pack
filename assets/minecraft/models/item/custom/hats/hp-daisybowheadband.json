@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/daisyband"
+		"voxels_palette": "cosmetics/hats/daisyband"
 	},
 	"elements": [ 	 
 		{

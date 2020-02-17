@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/e_particle",
 		"texture": "blocks/e_texture",
-		"voxels_palette": "items/custom/seassign"
+		"voxels_palette": "epcot/seassign"
 	},
 	"elements": [ 	 
 		{

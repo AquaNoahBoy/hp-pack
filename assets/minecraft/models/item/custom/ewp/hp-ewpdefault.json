@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"mesh_palette": "items/default"
+		"mesh_palette": "ewp/default"
 	},
 	"elements": [ 	 
 		{

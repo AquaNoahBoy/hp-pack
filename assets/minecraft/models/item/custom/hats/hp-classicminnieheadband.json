@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/minnie3"
+		"voxels_palette": "cosmetics/hats/minnie3"
 	},
 	"elements": [ 	 
 		{

@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "att",
-		"voxels_palette": "items/custom/sse"
+		"voxels_palette": "epcot/sse"
 	},
 	"elements": [ 	 
 		{

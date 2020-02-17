@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "items/particle",
 		"texture": "items/texture",
-		"voxels_palette": "items/custom/dfpara-left"
+		"voxels_palette": "side/df/dfpara-left"
 	},
 	"elements": [ 	 
 		{

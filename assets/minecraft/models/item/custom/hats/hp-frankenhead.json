@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/franken"
+		"voxels_palette": "cosmetics/hats/franken"
 	},
 	"elements": [ 	 
 		{

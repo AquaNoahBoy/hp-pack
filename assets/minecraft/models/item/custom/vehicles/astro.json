@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"voxels_palette": "block/astro"
+		"voxels_palette": "dl/astro"
 	},
 	"elements": [ 	 
 		{

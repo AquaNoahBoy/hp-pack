@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Majoris_br with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"paper": "items/custom/dunce"
+		"paper": "cosmetics/hats/dunce"
 	},
 	"elements": [ 	 
 		{

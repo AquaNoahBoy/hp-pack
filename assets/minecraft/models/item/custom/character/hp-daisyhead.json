@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/daisy"
+		"voxels_palette": "heads/daisy"
 	},
 	"elements": [ 	 
 		{

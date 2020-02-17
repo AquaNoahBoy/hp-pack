@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"voxels_palette": "block/gmrfront"
+		"voxels_palette": "mgm/gmrfront"
 	},
 	"elements": [ 	 
 		{

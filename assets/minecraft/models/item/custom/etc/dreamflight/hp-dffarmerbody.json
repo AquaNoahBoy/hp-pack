@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/farmer1"
+		"voxels_palette": "side/df/farmer1"
 	},
 	"elements": [ 	 
 		{

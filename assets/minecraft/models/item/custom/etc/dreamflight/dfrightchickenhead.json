@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/chickenheadr"
+		"voxels_palette": "side/df/chickenheadr"
 	},
 	"elements": [ 	 
 		{

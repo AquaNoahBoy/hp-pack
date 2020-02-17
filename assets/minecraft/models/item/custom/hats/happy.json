@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Majoris_br with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"happymeal": "items/custom/happymeal"
+		"happymeal": "cosmetics/hats/happymeal"
 	},
 	"elements": [ 	 
 		{

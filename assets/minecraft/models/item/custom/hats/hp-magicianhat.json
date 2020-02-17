@@ -2,7 +2,7 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_palette": "items/custom/magic"
+		"voxels_palette": "cosmetics/hats/magic"
 	},
 	"elements": [ 	 
 		{

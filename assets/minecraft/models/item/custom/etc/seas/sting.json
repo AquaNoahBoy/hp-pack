@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"sting": "block/sting"
+		"sting": "epcot/sting"
 	},
 	"elements": [ 	 
 		{

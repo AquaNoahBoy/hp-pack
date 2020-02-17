@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/particle",
 		"texture": "block/texture",
-		"colors": "block/colors"
+		"colors": "side/tt/blackdoor"
 	},
 	"elements": [ 	 
 		{

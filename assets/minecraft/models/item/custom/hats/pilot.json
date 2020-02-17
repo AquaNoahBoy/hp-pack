@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Majoris_br with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"pilot": "items/custom/pilot"
+		"pilot": "cosmetics/hats/pilot"
 	},
 	"elements": [ 	 
 		{

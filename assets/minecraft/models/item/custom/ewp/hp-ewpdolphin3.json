@@ -1,7 +1,7 @@
 {
 	"__comment": "Model animated using Fizzy's model animator - http://fizzy81.github.io/animated-models/",
 	"textures": {
-		"main": "items/hp-ewpdolphin3"
+		"main": "ewp/hp-ewpdolphin3"
 	},
 	"elements": [ 	 
 		{
