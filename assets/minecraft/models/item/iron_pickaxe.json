@@ -50,7 +50,7 @@
 		{ "predicate": {"damaged": 1, "damage": 0.17200000000000001}, "model": "parks/side/df/hp-drmfltsign"},
 		{ "predicate": {"damaged": 1, "damage": 0.176}, "model": "parks/side/df/hp-dfcrowd"},
 		{ "predicate": {"damaged": 1, "damage": 0.18}, "model": "parks/epcot/metrosign"},
-		{ "predicate": {"damaged": 1, "damage": 0.184}, "model": "parks/epcot/hp-deltasign"},
+		{ "predicate": {"damaged": 1, "damage": 0.184}, "model": "parks/side/df/hp-deltasign"},
 		{ "predicate": {"damaged": 1, "damage": 0.188}, "model": "parks/side/df/hp-dfcowstandbody"},
 		{ "predicate": {"damaged": 1, "damage": 0.192}, "model": "parks/side/df/hp-dfcowstandhead"},
 		{ "predicate": {"damaged": 1, "damage": 0.196}, "model": "parks/side/df/hp-dfstandcowquestion"},
