@@ -1,8 +1,6 @@
 {
 	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/e_texture",
 		"voxels_palette": "epcot/seassign"
 	},
 	"elements": [ 	 

@@ -1,8 +1,6 @@
 {
 	"__comment": "Designed by Amids_ with Cubik Studio",
 	"textures": {
-		"particle": "block/particle",
-		"texture": "block/texture",
 		"voxels_palette": "mgm/gmrfront"
 	},
 	"elements": [ 	 

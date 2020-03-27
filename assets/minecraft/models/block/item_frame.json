@@ -1,7 +1,6 @@
 {
 	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "block/itemframe_background_wood",
 		"wood": "block/itemframe_background_wood",
 		"back": "block/itemframe_background_wood"
 	},
