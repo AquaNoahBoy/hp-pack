@@ -1,5 +1,5 @@
 {
-	"parent": "dl/astro",
+	"parent": "parks/dl/astro",
 	"textures":{
 		"voxels_palette": "dl/bastro"
 	}

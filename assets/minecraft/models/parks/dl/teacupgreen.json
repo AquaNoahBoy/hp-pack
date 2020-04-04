@@ -1,5 +1,5 @@
 {
-	"parent": "dl/teacupblue",
+	"parent": "parks/dl/teacupblue",
 	"textures":{
 		"voxels_palette": "dl/teacupmint"
 	}

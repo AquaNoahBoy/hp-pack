@@ -1,5 +1,5 @@
 {
-	"parent": "monorail/mid2",
+	"parent": "parks/monorail/mid2",
 	"textures":{
 		"voxels_palette": "monorail/mid1orange"
 	}

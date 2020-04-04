@@ -1,5 +1,5 @@
 {
-	"parent": "dl/phantomblack",
+	"parent": "parks/dl/phantomblack",
 	"textures":{
 		"voxels_palette": "dl/phantomwhite"
 	}

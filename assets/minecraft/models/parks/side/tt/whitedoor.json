@@ -1,5 +1,5 @@
 {
-	"parent": "side/tt/bdoor",
+	"parent": "parks/side/tt/bdoor",
 	"textures":{
 		"voxels_palette": "side/tt/whitedoor"
 	}

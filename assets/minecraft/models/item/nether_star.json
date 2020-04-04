@@ -1,0 +1,611 @@
+{
+    "parent": "item/default_nether_star",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "parks/ewp/ewpdefault"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "parks/ewp/ewpserpantface"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "parks/ewp/ewpserpantbody"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "parks/ewp/ewpserpantmidbody"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "parks/ewp/ewpserpanttail"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "parks/ewp/ewpturtle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "parks/ewp/ewpwhale"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "parks/ewp/ewpocto"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "parks/ewp/ewpdolphin1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "parks/ewp/ewpdolphin2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "parks/ewp/ewpdolphin3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "parks/ewp/ewpdino"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "parks/ewp/ewpseamons"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "parks/ewp/ewpseahorse"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "parks/ewp/ewptritonrope"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "parks/ewp/ewpneptune"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "parks/ewp/ewpflag"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "parks/ewp/stars"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "parks/dl/conestogalargewheel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "parks/dl/conestogasmallwheel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "parks/dl/flatridearm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "parks/dl/flatridearm2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "parks/dl/rainbowcavlocofront"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "parks/dl/rainbowcavlocoback"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "parks/dl/rainbowcavmech"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "parks/dl/teacupdiskblue"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "parks/dl/teacupdiskgreen"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "parks/dl/teacupdiskorange"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "parks/epcot/seas/cod"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "parks/epcot/seas/dolphin"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "parks/epcot/seas/knob"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "parks/epcot/seas/nemo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "parks/epcot/seas/sal"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "parks/epcot/seas/sealion"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "parks/epcot/seas/shark"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "parks/epcot/seas/spotty"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "parks/epcot/seas/sting"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "parks/epcot/cmeastsign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "parks/epcot/cmlogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "parks/epcot/cmwestsign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "parks/epcot/epcotlogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "parks/epcot/geend"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "parks/epcot/gelogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "parks/epcot/horizonslogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "parks/epcot/horizonsmainsign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "parks/epcot/horizonspresented"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "parks/epcot/hp-logo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "parks/epcot/jiilogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "parks/epcot/jiimainsign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "parks/epcot/jiimobileshadow"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "parks/epcot/landlogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "parks/epcot/landsign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "parks/epcot/livingseassign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "parks/epcot/metrosign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "parks/epcot/motionsign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "parks/epcot/seaslogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "parks/epcot/sselogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "parks/epcot/ssesign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "parks/epcot/uoelogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "parks/epcot/uoesign1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "parks/epcot/uoesign2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "parks/epcot/utcsign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "parks/epcot/wollogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "parks/epcot/womlogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "parks/epcot/wonderssign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "parks/mgm/kermitstatue"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "parks/mgm/mvlogo"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 68
+            },
+            "model": "parks/side/atis/atissign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 69
+            },
+            "model": "parks/side/df/deltasign"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 70
+            },
+            "model": "parks/side/df/dfcowstandbody"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 71
+            },
+            "model": "parks/side/df/dfcowstandhead"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "parks/side/df/dfcrop"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "parks/side/df/dfcrowd"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 74
+            },
+            "model": "parks/side/df/dffarmerarm"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 75
+            },
+            "model": "parks/side/df/dffarmerbody"
+        },
+	    {
+            "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "parks/side/df/dffarmerhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 77
+            },
+            "model": "parks/side/df/dfleftchickenbody"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "parks/side/df/dfleftchickenhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "parks/side/df/dfparachute-body"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "parks/side/df/dfparachute-leftarm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 81
+            },
+            "model": "parks/side/df/dfparachute-rightarm"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 82
+            },
+            "model": "parks/side/df/dfplane"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 83
+            },
+            "model": "parks/side/df/dfrightchickenbody"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 84
+            },
+            "model": "parks/side/df/dfrightchickenhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 85
+            },
+            "model": "parks/side/df/dfscaredchicken"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 86
+            },
+            "model": "parks/side/df/dfstandcowquestion"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 87
+            },
+            "model": "parks/side/df/stuntmanplane"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 88
+            },
+            "model": "parks/side/df/dfturntable"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 89
+            },
+            "model": "parks/side/df/dfvehicle"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "parks/side/df/dreamflightprojection"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "parks/side/df/drmfltsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "parks/side/df/laser"
+        },
+	    {
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "parks/side/tt/bdoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 94
+            },
+            "model": "parks/side/tt/graydoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 95
+            },
+            "model": "parks/side/tt/reddoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 96
+            },
+            "model": "parks/side/tt/ttcrashcar"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 97
+            },
+            "model": "parks/side/tt/ttcrashhood"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 98
+            },
+            "model": "parks/side/tt/ttsign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "parks/side/tt/whitedoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "parks/side/camera"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "parks/side/mic"
+        }
+    ]
+}

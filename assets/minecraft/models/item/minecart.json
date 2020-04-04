@@ -1,0 +1,377 @@
+{
+    "parent": "item/default_minecart",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "parks/dl/astro"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "parks/dl/blueastro"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "parks/dl/bluecar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "parks/dl/redcar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "parks/dl/yellowcar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "parks/dl/carouselhorse"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "parks/dl/conestogawagon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "parks/dl/pan"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "parks/dl/phantomblack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "parks/dl/phantomred"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "parks/dl/phantomblue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "parks/dl/phantomwhite"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "parks/dl/rainbowcavcoal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "parks/dl/rainbowcavpassenger"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "parks/dl/rainbowlocomotive"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "parks/dl/sky"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "parks/dl/snoww"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "parks/dl/storybookbase"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "parks/dl/teacupblue"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "parks/dl/teacupbrown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "parks/dl/teacupgreen"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "parks/dl/teacupred"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "parks/dl/teacupyellow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "parks/dl/toad"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "parks/epcot/hvehicle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "parks/epcot/motion"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "parks/epcot/sea"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "parks/mgm/gmrfront"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "parks/mgm/gmrback"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "parks/mgm/rrcfront"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "parks/mgm/rrcmiddle"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "parks/mgm/rrcback"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "parks/monorail/nose"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "parks/monorail/nosered"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "parks/monorail/noseorange"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "parks/monorail/noseyellow"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "parks/monorail/front1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "parks/monorail/front1red"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "parks/monorail/front1orange"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "parks/monorail/front1yellow"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "parks/monorail/front2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "parks/monorail/front2red"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "parks/monorail/front2orange"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "parks/monorail/front2yellow"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "parks/monorail/mid1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "parks/monorail/mid1red"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "parks/monorail/mid1orange"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "parks/monorail/mid1yellow"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "parks/monorail/mid2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "parks/monorail/mid2red"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "parks/monorail/mid2orange"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "parks/monorail/mid2yellow"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "parks/side/atis/atis"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "parks/side/df/dfvehicle"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "parks/side/heimlich/heimlich1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "parks/side/heimlich/heimlich2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "parks/side/heimlich/heimlich3"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "parks/side/mm/mm1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "parks/side/mm/mm2"
+		},
+		{ 
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "parks/side/mm/mm3"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "parks/side/tt/testtrack"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "template"
+        }
+    ]
+}

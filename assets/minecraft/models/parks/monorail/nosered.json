@@ -1,5 +1,5 @@
 {
-	"parent": "monorail/hp-mark6nose",
+	"parent": "parks/monorail/hp-mark6nose",
 	"textures":{
 		"voxels_palette": "monorail/mnrlnosereed"
 	}
