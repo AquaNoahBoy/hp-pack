@@ -1054,10 +1054,24 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"thirdperson_lefthand": {
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"gui": {
+			"rotation":  [ 14, -77, 0 ]
+		},
 		"head": {
 			"rotation":  [ 0, 90, 0 ],
-			"translation":  [ 0, 0.0009, 0 ],
 			"scale":  [ 1.9391, 1.9391, 1.9391 ]
+		},
+		"ground": {
+			"translation":  [ 0, 2.7826, 0 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ]
 		}
 	}
 }

@@ -366,12 +366,6 @@
                 "custom_model_data": 61
             },
             "model": "parks/side/tt/testtrack"
-		},
-        {
-            "predicate": {
-                "custom_model_data": 62
-            },
-            "model": "template"
-        }
+		}
     ]
 }

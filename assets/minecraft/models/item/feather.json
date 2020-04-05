@@ -1,5 +1,5 @@
 {
-    "parent": "item/default_nether_star",
+    "parent": "item/default_feather",
     "overrides": [
         {
             "predicate": {
@@ -11,103 +11,103 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "parks/ewp/ewpserpantface"
+            "model": "parks/ewp/hp-ewpserpantface"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "parks/ewp/ewpserpantbody"
+            "model": "parks/ewp/hp-ewpserpantbody"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "parks/ewp/ewpserpantmidbody"
+            "model": "parks/ewp/hp-ewpserpantmidbody"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "parks/ewp/ewpserpanttail"
+            "model": "parks/ewp/hp-ewpserpanttail"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "parks/ewp/ewpturtle"
+            "model": "parks/ewp/hp-ewpturtle"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "parks/ewp/ewpwhale"
+            "model": "parks/ewp/hp-ewpwhale"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "parks/ewp/ewpocto"
+            "model": "parks/ewp/hp-ewpocto"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "parks/ewp/ewpdolphin1"
+            "model": "parks/ewp/hp-ewpdolphin1"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "parks/ewp/ewpdolphin2"
+            "model": "parks/ewp/hp-ewpdolphin2"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "parks/ewp/ewpdolphin3"
+            "model": "parks/ewp/hp-ewpdolphin3"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "parks/ewp/ewpdino"
+            "model": "parks/ewp/hp-ewpdino"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "parks/ewp/ewpseamons"
+            "model": "parks/ewp/hp-ewpseamons"
         },
         {
             "predicate": {
                 "custom_model_data": 14
             },
-            "model": "parks/ewp/ewpseahorse"
+            "model": "parks/ewp/hp-ewpseahorse"
         },
         {
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "parks/ewp/ewptritonrope"
+            "model": "parks/ewp/hp-ewptritonrope"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "parks/ewp/ewpneptune"
+            "model": "parks/ewp/hp-ewpneptune"
         },
         {
             "predicate": {
                 "custom_model_data": 17
             },
-            "model": "parks/ewp/ewpflag"
+            "model": "parks/ewp/hp-ewpflag"
         },
         {
             "predicate": {
                 "custom_model_data": 18
             },
-            "model": "parks/ewp/stars"
+            "model": "parks/ewp/hp-ewpstars"
         },
         {
             "predicate": {
@@ -521,7 +521,7 @@
             "predicate": {
                 "custom_model_data": 87
             },
-            "model": "parks/side/df/stuntmanplane"
+            "model": "parks/side/df/dfstuntmanplane"
         },
 		{
             "predicate": {

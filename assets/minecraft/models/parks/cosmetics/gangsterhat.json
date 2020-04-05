@@ -1,5 +1,5 @@
 {
-	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
+	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"voxels_palette": "cosmetics/hats/gangsta"
 	},
@@ -2000,10 +2000,38 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 88, 0, -91 ],
+			"translation":  [ 4.8695, 0, -2.782 ],
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 88, 0, -91 ],
+			"translation":  [ 4.8695, 0, -2.782 ],
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		},
+		"firstperson_righthand": {
+			"translation":  [ 0, 6.9565, 0 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ 0, 6.9565, 0 ]
+		},
+		"gui": {
+			"rotation":  [ -11, -47, 0 ],
+			"translation":  [ 0, 3.4782, 0 ],
+			"scale":  [ 1.1, 1.1, 1.1 ]
+		},
 		"head": {
 			"rotation":  [ 0, 90, 0 ],
 			"translation":  [ 1.3913, 16.3, -0.695 ],
 			"scale":  [ 1.7651, 1.7651, 1.7651 ]
+		},
+		"ground": {
+			"translation":  [ 0, 4.1739, 0 ]
+		},
+		"fixed": {
+			"translation":  [ 0, 3.4782, 0 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
 		}
 	}
 }

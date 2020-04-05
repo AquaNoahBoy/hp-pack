@@ -213,9 +213,9 @@
 		},
 		{
             "predicate": {
-                "custom_model_data": 34
+                "custom_model_data": 36
             },
-            "model": "parks/cosmetics/joey"
+            "model": "parks/cosmetics/mad"
 		},
 		{
             "predicate": {
@@ -371,61 +371,61 @@
             "predicate": {
                 "custom_model_data": 62
             },
-            "model": "parks/cosmetics/fig1"
+            "model": "parks/character/fig1"
         },
         {
             "predicate": {
                 "custom_model_data": 63
             },
-            "model": "parks/cosmetics/fig2"
+            "model": "parks/character/fig2"
         },
         {
             "predicate": {
                 "custom_model_data": 64
             },
-            "model": "parks/cosmetics/mickeyhead"
+            "model": "parks/character/mickeyhead"
         },
         {
             "predicate": {
                 "custom_model_data": 65
             },
-            "model": "parks/cosmetics/minniehead"
+            "model": "parks/character/minniehead"
         },
         {
             "predicate": {
                 "custom_model_data": 66
             },
-            "model": "parks/cosmetics/donaldhead"
+            "model": "parks/character/donaldhead"
         },
         {
             "predicate": {
                 "custom_model_data": 67
             },
-            "model": "parks/cosmetics/goofyhead"
+            "model": "parks/character/goofyhead"
         },
         {
             "predicate": {
                 "custom_model_data": 68
             },
-            "model": "parks/cosmetics/daisyhead"
+            "model": "parks/character/daisyhead"
         },
         {
             "predicate": {
                 "custom_model_data": 69
             },
-            "model": "parks/cosmetics/plutohead"
+            "model": "parks/character/plutohead"
         },
         {
             "predicate": {
                 "custom_model_data": 70
             },
-            "model": "parks/cosmetics/ortensiah"
+            "model": "parks/character/ortensiah"
         },
         {
             "predicate": {
                 "custom_model_data": 71
             },
-            "model": "parks/cosmetics/oswaldh"
+            "model": "parks/character/oswaldh"
         }
     ]
 }

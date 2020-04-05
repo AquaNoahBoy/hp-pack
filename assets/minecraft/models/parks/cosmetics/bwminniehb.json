@@ -93,7 +93,7 @@
 		{
 			"__comment": "Voxels-000000",
 			"from": [ 2.9767, 7.814, 7.814 ],
-			"to": [ 5.58135, 8.558186, 8.186092 ],
+			"to": [ 5.581349, 8.558186, 8.186092 ],
 			"faces": {
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -165,7 +165,7 @@
 		{
 			"__comment": "Voxels-0F0F0F",
 			"from": [ 4.8372, 1.8605, 7.4419 ],
-			"to": [ 5.209292, 6.697709, 8.186086 ],
+			"to": [ 5.209291, 6.697709, 8.186086 ],
 			"faces": {
 				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
@@ -178,7 +178,7 @@
 		{
 			"__comment": "Voxels-0F0F0F",
 			"from": [ 4.8372, 3.3488, 7.0698 ],
-			"to": [ 5.209292, 6.697637, 7.441893 ],
+			"to": [ 5.209291, 6.697637, 7.441893 ],
 			"faces": {
 				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
@@ -190,7 +190,7 @@
 		{
 			"__comment": "Voxels-0F0F0F",
 			"from": [ 4.8372, 3.3488, 8.186 ],
-			"to": [ 5.209292, 6.697637, 8.558093 ],
+			"to": [ 5.209291, 6.697637, 8.558093 ],
 			"faces": {
 				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
@@ -215,7 +215,7 @@
 		{
 			"__comment": "Voxels-0F0F0F",
 			"from": [ 5.2093, 6.3256, 7.0698 ],
-			"to": [ 11.53488, 6.697692, 8.558172 ],
+			"to": [ 11.53488, 6.697691, 8.558172 ],
 			"faces": {
 				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
@@ -614,7 +614,7 @@
 		{
 			"__comment": "Voxels-FFFFFF",
 			"from": [ 9.302299, 7.814, 7.814 ],
-			"to": [ 9.674394, 8.186092, 8.186092 ],
+			"to": [ 9.674395, 8.186092, 8.186092 ],
 			"faces": {
 				"up": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#voxels_palette" },
 				"north": { "uv": [ 0.96, 4.96, 3.04, 7.04 ], "texture": "#voxels_palette" },
@@ -961,9 +961,25 @@
 		}
 	],
 	"display": {
+		"firstperson_righthand": {
+			"translation":  [ 0, 4.8695, 0 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ 0, 4.8695, 0 ]
+		},
+		"gui": {
+			"translation":  [ 0, 2.7826, 0 ]
+		},
 		"head": {
 			"translation":  [ -0.3, 10, 0 ],
 			"scale":  [ 2.2, 2.2, 2.2 ]
+		},
+		"ground": {
+			"translation":  [ 0, 4.8695, 0 ]
+		},
+		"fixed": {
+			"translation":  [ 0, 3.4782, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
 		}
 	}
 }

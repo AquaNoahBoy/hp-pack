@@ -1,6 +1,6 @@
 {
-	"parent": "parks/monorail/hp-front2",
+	"parent": "parks/monorail/front2",
 	"textures":{
-		"voxels_palette": "monorail/front2red"
+		"voxels_atlas": "monorail/front2red"
 	}
 }

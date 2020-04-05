@@ -1251,9 +1251,24 @@
 		}
 	],
 	"display": {
+		"firstperson_righthand": {
+			"translation":  [ 0, 5.5652, 0 ],
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		},
+		"firstperson_lefthand": {
+			"translation":  [ 0, 5.5652, 0 ],
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		},
+		"gui": {
+			"rotation":  [ 14, 25, 0 ],
+			"translation":  [ 0, 0.6956, 0 ]
+		},
 		"head": {
 			"translation":  [ 0, 15.304, 0 ],
 			"scale":  [ 1.5304, 1.5217, 1.5217 ]
+		},
+		"ground": {
+			"translation":  [ 0, 3.4782, 0 ]
 		}
 	}
 }

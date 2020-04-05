@@ -1084,15 +1084,18 @@
 			"scale":  [ 0.5, 0.5, 0.5 ]
 		},
 		"gui": {
-			"rotation":  [ 0, -90, 0 ]
+			"rotation":  [ 16, -120, 0 ]
 		},
 		"head": {
 			"rotation":  [ 0, 90, 8 ],
-			"translation":  [ -0.5, 15.9, -4.173 ],
+			"translation":  [ -0.6, 15.9, -2.782 ],
 			"scale":  [ 1.7, 1.7, 1.7 ]
 		},
 		"ground": {
 			"translation":  [ 0, 4.1739, 0 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ]
 		}
 	}
 }
