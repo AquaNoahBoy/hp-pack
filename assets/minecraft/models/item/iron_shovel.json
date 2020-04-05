@@ -1,0 +1,14 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_shovel"
+	},
+	"overrides": [
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/iron_shovel"},	
+		{ "predicate": {"damaged": 1, "damage": 0.132}, "model": "parks/mgm/rrcfront"},
+		{ "predicate": {"damaged": 1, "damage": 0.136}, "model": "parks/mgm/rrcmiddle"},
+		{ "predicate": {"damaged": 1, "damage": 0.14}, "model": "parks/mgm/rrcback"},
+		{ "predicate": {"damaged": 1, "damage": 0.14400000000000002}, "model": "parks/mgm/rrcfront"},
+		{ "predicate": {"damaged": 1, "damage": 0.996}, "model": "item/iron_shovel"}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_pickaxe"
+	},
+	"overrides": [
+		{ "predicate": {"damaged": 1, "damage": 0}, "model": "item/iron_pickaxe"},	
+		{ "predicate": {"damaged": 1, "damage": 0.14}, "model": "parks/side/df/dfrightchickenbody"},
+		{ "predicate": {"damaged": 1, "damage": 0.14400000000000002}, "model": "parks/side/df/dfrightchickenhead"},
+		{ "predicate": {"damaged": 1, "damage": 0.148}, "model": "parks/side/df/dfscaredchicken"},
+		{ "predicate": {"damaged": 1, "damage": 0.152}, "model": "parks/side/df/dfleftchickenhead"},
+		{ "predicate": {"damaged": 1, "damage": 0.156}, "model": "parks/side/df/dfleftchickenbody"},
+		{ "predicate": {"damaged": 1, "damage": 0.16}, "model": "parks/side/df/dfparachute-leftarm"},
+		{ "predicate": {"damaged": 1, "damage": 0.164}, "model": "parks/side/df/dfparachute-rightarm"},
+		{ "predicate": {"damaged": 1, "damage": 0.168}, "model": "parks/side/df/dfparachute-body"},
+		{ "predicate": {"damaged": 1, "damage": 0.176}, "model": "parks/side/df/dfcrowd"},
+		{ "predicate": {"damaged": 1, "damage": 0.188}, "model": "parks/side/df/dfcowstandbody"},
+		{ "predicate": {"damaged": 1, "damage": 0.192}, "model": "parks/side/df/dfcowstandhead"},
+		{ "predicate": {"damaged": 1, "damage": 0.196}, "model": "parks/side/df/dfstandcowquestion"},
+		{ "predicate": {"damaged": 1, "damage": 0.2}, "model": "parks/side/df/dffarmerarm"},
+		{ "predicate": {"damaged": 1, "damage": 0.20400000000000001}, "model": "parks/side/df/dffarmerbody"},
+		{ "predicate": {"damaged": 1, "damage": 0.20800000000000002}, "model": "parks/side/df/dffarmerhead"},
+		{ "predicate": {"damaged": 1, "damage": 0.216}, "model": "parks/side/df/laser"},
+		{ "predicate": {"damaged": 1, "damage": 0.22}, "model": "parks/side/df/dreamflightprojection"},
+		{ "predicate": {"damaged": 1, "damage": 0.23600000000000002}, "model": "parks/side/df/dfplane"},
+		{ "predicate": {"damaged": 1, "damage": 0.248}, "model": "parks/side/df/dfcrop"},
+		{ "predicate": {"damaged": 1, "damage": 0.252}, "model": "parks/side/df/dfturntable"},
+		{ "predicate": {"damaged": 1, "damage": 0.26}, "model": "parks/side/df/dfstuntmanplane"},
+		{ "predicate": {"damaged": 1, "damage": 0.996}, "model": "item/iron_pickaxe"}
+	]
+}
+}
