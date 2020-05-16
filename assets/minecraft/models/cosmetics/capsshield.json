@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
 	"textures": {
-		"cap": "cosmetics/wear/cap"
+		"cap": "cosmetics/cap"
 	},
 	"elements": [ 	 
 		{

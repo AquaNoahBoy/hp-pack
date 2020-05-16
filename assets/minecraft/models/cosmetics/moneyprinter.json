@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
 	"textures": {
-		"voxels_palette": "cosmetics/hats/moneyprinter"
+		"voxels_palette": "cosmetics/moneyprinter"
 	},
 	"elements": [ 	 
 		{

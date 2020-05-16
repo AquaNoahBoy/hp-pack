@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"oswald": "cosmetics/hats/oswald"
+		"oswald": "cosmetics/oswald"
 	},
 	"elements": [ 	 
 		{

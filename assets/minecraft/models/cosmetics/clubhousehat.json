@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
 	"textures": {
-		"voxels_palette": "cosmetics/hats/clubhouse"
+		"voxels_palette": "cosmetics/clubhouse"
 	},
 	"elements": [ 	 
 		{

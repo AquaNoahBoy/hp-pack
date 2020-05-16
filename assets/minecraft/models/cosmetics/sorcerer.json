@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"sorcer": "cosmetics/hats/sorcerer"
+		"sorcer": "cosmetics/sorcerer"
 	},
 	"elements": [ 	 
 		{

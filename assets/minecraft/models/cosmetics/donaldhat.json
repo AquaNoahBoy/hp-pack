@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"dhat": "cosmetics/hats/dhat"
+		"dhat": "cosmetics/dhat"
 	},
 	"elements": [ 	 
 		{

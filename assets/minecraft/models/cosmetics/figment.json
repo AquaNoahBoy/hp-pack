@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"figment": "cosmetics/hats/figment"
+		"figment": "cosmetics/figment"
 	},
 	"elements": [ 	 
 		{
