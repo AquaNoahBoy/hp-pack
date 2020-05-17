@@ -606,6 +606,60 @@
                 "custom_model_data": 101
             },
             "model": "parks/side/mic"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "parks/character/mickeyhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "parks/character/minniehead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "parks/character/goofyhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "parks/character/daisyhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "parks/character/donaldhead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "parks/character/ortensiah"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "parks/character/oswaldh"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "parks/character/fig1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "parks/character/fig2"
         }
     ]
 }
