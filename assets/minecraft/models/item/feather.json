@@ -660,6 +660,37 @@
                 "custom_model_data": 110
             },
             "model": "parks/character/fig2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "parks/mgm/totdoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "parks/mgm/totindicator"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "parks/mgm/totarrow"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "parks/dl/cannon"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "parks/side/df/whitestrip"
         }
+
     ]
 }
