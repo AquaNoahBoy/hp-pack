@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/artoo"
+		"voxels_palette": "items/custom/artoo"
 	},
 	"elements": [ 	 
 		{

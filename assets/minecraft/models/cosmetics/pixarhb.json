@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/pixarhb"
+		"voxels_palette": "items/custom/pixarhb"
 	},
 	"elements": [ 	 
 		{

@@ -20,7 +20,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 1.4, 0, 5.8 ],
-			"to": [ 2, 0.4, 6.599999 ],
+			"to": [ 2, 0.4, 6.599998 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -144,7 +144,7 @@
 		{
 			"__comment": "Voxels-029493",
 			"from": [ 2, 0, 5.8 ],
-			"to": [ 12.6, 0.2, 6.599999 ],
+			"to": [ 12.6, 0.2, 6.599998 ],
 			"faces": {
 				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#voxels_palette" },
@@ -562,7 +562,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 3.4, 0.2, 8.599999 ],
-			"to": [ 4.599999, 0.4, 9.4 ],
+			"to": [ 4.599998, 0.4, 9.4 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -703,7 +703,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 3.8, 0.2, 6.8 ],
-			"to": [ 5, 0.4, 7.599999 ],
+			"to": [ 5, 0.4, 7.599998 ],
 			"faces": {
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1006,7 +1006,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 5.8, 0.2, 6.8 ],
-			"to": [ 7, 0.4, 7.199999 ],
+			"to": [ 7, 0.4, 7.199998 ],
 			"faces": {
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1133,7 +1133,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 8, 0.2, 6.8 ],
-			"to": [ 9.2, 0.4, 7.599999 ],
+			"to": [ 9.2, 0.4, 7.599998 ],
 			"faces": {
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1738,7 +1738,7 @@
 		{
 			"__comment": "Voxels-FFEEDA",
 			"from": [ 12.6, 0, 5.8 ],
-			"to": [ 13.2, 0.4, 6.599999 ],
+			"to": [ 13.2, 0.4, 6.599998 ],
 			"faces": {
 				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
 				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#voxels_palette" },
@@ -1790,6 +1790,11 @@
 		"head": {
 			"rotation":  [ 90, 0, 180 ],
 			"translation":  [ -0.695, 19.477, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		},
+		"fixed": {
+			"rotation":  [ -90, 180, 0 ],
+			"translation":  [ -1.1, -0.4, -11.13 ],
 			"scale":  [ 1.5, 1.5, 1.5 ]
 		}
 	}

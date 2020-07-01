@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/ironman"
+		"voxels_palette": "items/custom/ironman"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by Cm@BlackSpigotMC with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "cosmetics/coolbglasses"
+		"voxels_palette": "items/custom/coolbglasses"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"figment": "cosmetics/figment"
+		"figment": "items/custom/figment"
 	},
 	"elements": [
 		{

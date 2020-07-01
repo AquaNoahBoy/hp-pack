@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"gold": "cosmetics/gold"
+		"gold": "items/custom/gold"
 	},
 	"elements": [ 	 
 		{

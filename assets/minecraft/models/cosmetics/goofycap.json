@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/goofycap"
+		"voxels_palette": "items/custom/goofycap"
 	},
 	"elements": [ 	 
 		{

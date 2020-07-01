@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/blueears"
+		"voxels_palette": "items/custom/blueears"
 	},
 	"elements": [ 	 
 		{

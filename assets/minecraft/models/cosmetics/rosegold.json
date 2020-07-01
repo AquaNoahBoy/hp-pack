@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"rosegold": "cosmetics/rosegold"
+		"rosegold": "items/custom/rosegold"
 	},
 	"elements": [ 	 
 		{

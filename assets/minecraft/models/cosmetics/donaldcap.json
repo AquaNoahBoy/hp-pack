@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/donaldcap"
+		"voxels_palette": "items/custom/donaldcap"
 	},
 	"elements": [ 	 
 		{

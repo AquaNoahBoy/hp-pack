@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "cosmetics/minnie2"
+		"voxels_palette": "items/custom/minnie2"
 	},
 	"elements": [ 	 
 		{

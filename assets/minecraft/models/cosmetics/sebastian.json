@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/sebastian"
+		"voxels_palette": "items/custom/sebastian"
 	},
 	"elements": [ 	 
 		{

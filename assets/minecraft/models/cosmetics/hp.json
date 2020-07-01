@@ -1,7 +1,7 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"horizon": "cosmetics/horizon"
+		"horizon": "items/custom/horizon"
 	},
 	"elements": [
 		{

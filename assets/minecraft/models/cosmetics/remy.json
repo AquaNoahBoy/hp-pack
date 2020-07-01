@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/remy"
+		"voxels_palette": "items/custom/remy"
 	},
 	"elements": [ 	 
 		{

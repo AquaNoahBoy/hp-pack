@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "cosmetics/crown"
+		"voxels_palette": "items/custom/crown"
 	},
 	"elements": [ 	 
 		{

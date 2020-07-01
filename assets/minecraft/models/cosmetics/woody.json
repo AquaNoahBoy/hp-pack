@@ -1,7 +1,7 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"voxels_palette": "cosmetics/woody"
+		"voxels_palette": "items/custom/woody"
 	},
 	"elements": [
 		{

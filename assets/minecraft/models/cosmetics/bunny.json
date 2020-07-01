@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/bunny"
+		"voxels_palette": "items/custom/bunny"
 	},
 	"elements": [ 	 
 		{

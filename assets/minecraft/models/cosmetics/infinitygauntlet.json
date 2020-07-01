@@ -1,6 +1,6 @@
 {
     "textures": {
-        "main": "cosmetics/infinity"
+        "main": "items/custom/infinity"
     }, 
     "elements": [
         {

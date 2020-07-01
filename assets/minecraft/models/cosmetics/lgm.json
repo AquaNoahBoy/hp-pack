@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/lgm"
+		"voxels_palette": "items/custom/lgm"
 	},
 	"elements": [ 	 
 		{

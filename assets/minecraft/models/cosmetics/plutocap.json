@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/plutocap"
+		"voxels_palette": "items/custom/plutocap"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_palette": "cosmetics/gangsta"
+		"voxels_palette": "items/custom/gangsta"
 	},
 	"elements": [ 	 
 		{

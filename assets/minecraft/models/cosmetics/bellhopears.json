@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/bellhopears"
+		"voxels_palette": "items/custom/bellhopears"
 	},
 	"elements": [ 	 
 		{

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/minnieears"
+		"voxels_palette": "items/custom/minnieears"
 	},
 	"elements": [ 	 
 		{

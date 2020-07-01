@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/maleficent"
+		"voxels_palette": "items/custom/maleficent"
 	},
 	"elements": [ 	 
 		{

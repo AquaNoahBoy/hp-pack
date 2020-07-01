@@ -1,10 +1,11 @@
 {
+	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
 	"textures": {
 		"voxels_palette": "items/custom/donut"
 	},
 	"elements": [ 	 
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 6.5, 2, 3.5 ],
 			"to": [ 7, 6.5, 4 ],
 			"faces": {
@@ -17,7 +18,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 6.5, 2, 12 ],
 			"to": [ 7, 6.5, 12.5 ],
 			"faces": {
@@ -30,7 +31,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 5, 2 ],
 			"to": [ 7, 6.25, 2.25 ],
 			"faces": {
@@ -43,7 +44,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 5, 2.25 ],
 			"to": [ 7, 6, 3.5 ],
 			"faces": {
@@ -54,7 +55,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 5, 12.5 ],
 			"to": [ 7, 6.25, 12.75 ],
 			"faces": {
@@ -66,7 +67,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 5, 12.75 ],
 			"to": [ 7, 6, 14 ],
 			"faces": {
@@ -78,7 +79,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 5.5, 1 ],
 			"to": [ 7, 9, 1.5 ],
 			"faces": {
@@ -91,7 +92,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 5.5, 1.5 ],
 			"to": [ 7, 6.75, 1.75 ],
 			"faces": {
@@ -103,7 +104,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 5.5, 1.75 ],
 			"to": [ 7, 6.5, 2 ],
 			"faces": {
@@ -115,7 +116,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 5.5, 14 ],
 			"to": [ 7, 6.5, 15 ],
 			"faces": {
@@ -128,7 +129,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 2.25 ],
 			"to": [ 6.75, 6.75, 2.5 ],
 			"faces": {
@@ -140,7 +141,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 2.5 ],
 			"to": [ 7.75, 6.25, 3 ],
 			"faces": {
@@ -152,7 +153,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 3 ],
 			"to": [ 6.75, 6.75, 3.25 ],
 			"faces": {
@@ -164,7 +165,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 3.25 ],
 			"to": [ 7.75, 6.25, 3.5 ],
 			"faces": {
@@ -176,7 +177,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 4 ],
 			"to": [ 7, 6.5, 12 ],
 			"faces": {
@@ -186,7 +187,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 12.75 ],
 			"to": [ 6.75, 6.75, 13 ],
 			"faces": {
@@ -198,7 +199,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 13 ],
 			"to": [ 7.75, 6.25, 13.5 ],
 			"faces": {
@@ -210,7 +211,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 13.5 ],
 			"to": [ 6.75, 6.75, 13.75 ],
 			"faces": {
@@ -222,7 +223,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6, 13.75 ],
 			"to": [ 7.75, 6.25, 14 ],
 			"faces": {
@@ -234,7 +235,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.25, 2 ],
 			"to": [ 6.75, 7, 2.25 ],
 			"faces": {
@@ -246,7 +247,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.25, 2.5 ],
 			"to": [ 7.5, 6.5, 3 ],
 			"faces": {
@@ -257,7 +258,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.25, 3.25 ],
 			"to": [ 6.75, 7, 3.5 ],
 			"faces": {
@@ -269,7 +270,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.25, 12.5 ],
 			"to": [ 6.75, 7, 12.75 ],
 			"faces": {
@@ -281,7 +282,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.25, 13 ],
 			"to": [ 7.5, 6.5, 13.5 ],
 			"faces": {
@@ -292,7 +293,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.25, 13.75 ],
 			"to": [ 6.75, 7, 14 ],
 			"faces": {
@@ -304,7 +305,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 0.5 ],
 			"to": [ 7, 8, 1 ],
 			"faces": {
@@ -316,7 +317,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 1.75 ],
 			"to": [ 6.75, 7, 2 ],
 			"faces": {
@@ -325,7 +326,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 3.5 ],
 			"to": [ 6.75, 7, 3.75 ],
 			"faces": {
@@ -335,7 +336,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 3.75 ],
 			"to": [ 8.25, 6.75, 4 ],
 			"faces": {
@@ -347,7 +348,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 4 ],
 			"to": [ 7, 9, 4.5 ],
 			"faces": {
@@ -359,7 +360,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 4.5 ],
 			"to": [ 7, 8, 5 ],
 			"faces": {
@@ -370,7 +371,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 11 ],
 			"to": [ 7, 8, 12 ],
 			"faces": {
@@ -382,7 +383,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 12 ],
 			"to": [ 8.25, 6.75, 12.25 ],
 			"faces": {
@@ -394,7 +395,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 12.25 ],
 			"to": [ 6.75, 7, 12.5 ],
 			"faces": {
@@ -403,7 +404,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 14 ],
 			"to": [ 6.75, 7, 14.25 ],
 			"faces": {
@@ -413,7 +414,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 14.25 ],
 			"to": [ 7.75, 6.75, 14.5 ],
 			"faces": {
@@ -425,7 +426,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 14.5 ],
 			"to": [ 7, 9, 15 ],
 			"faces": {
@@ -437,7 +438,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 6.5, 15 ],
 			"to": [ 7, 8, 15.5 ],
 			"faces": {
@@ -449,7 +450,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.75, 1.5 ],
 			"to": [ 6.75, 7, 1.75 ],
 			"faces": {
@@ -457,7 +458,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.75, 3.75 ],
 			"to": [ 6.75, 7, 4 ],
 			"faces": {
@@ -465,7 +466,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.75, 12 ],
 			"to": [ 6.75, 7, 12.25 ],
 			"faces": {
@@ -473,7 +474,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 6.75, 14.25 ],
 			"to": [ 6.75, 7, 14.5 ],
 			"faces": {
@@ -481,7 +482,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7, 1.5 ],
 			"to": [ 7.75, 7.5, 1.75 ],
 			"faces": {
@@ -493,7 +494,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7, 1.75 ],
 			"to": [ 7.5, 7.5, 2 ],
 			"faces": {
@@ -504,7 +505,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7, 3.5 ],
 			"to": [ 7.5, 7.5, 4 ],
 			"faces": {
@@ -517,7 +518,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7, 12 ],
 			"to": [ 8.25, 7.25, 12.25 ],
 			"faces": {
@@ -529,7 +530,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7, 12.25 ],
 			"to": [ 7.5, 7.5, 12.5 ],
 			"faces": {
@@ -541,7 +542,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7, 14 ],
 			"to": [ 7.5, 7.5, 14.5 ],
 			"faces": {
@@ -554,7 +555,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7.25, 12 ],
 			"to": [ 7.5, 7.5, 12.25 ],
 			"faces": {
@@ -564,7 +565,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.5, 1.5 ],
 			"to": [ 6.75, 7.75, 2.25 ],
 			"faces": {
@@ -576,7 +577,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.5, 3.25 ],
 			"to": [ 7.5, 8, 3.5 ],
 			"faces": {
@@ -589,7 +590,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.5, 3.5 ],
 			"to": [ 6.75, 8, 3.75 ],
 			"faces": {
@@ -598,7 +599,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.5, 3.75 ],
 			"to": [ 6.75, 7.75, 4 ],
 			"faces": {
@@ -606,7 +607,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.5, 12 ],
 			"to": [ 6.75, 7.75, 12.75 ],
 			"faces": {
@@ -618,7 +619,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.5, 13.75 ],
 			"to": [ 7.5, 8, 14 ],
 			"faces": {
@@ -631,7 +632,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.5, 14 ],
 			"to": [ 6.75, 8, 14.25 ],
 			"faces": {
@@ -640,7 +641,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.5, 14.25 ],
 			"to": [ 6.75, 7.75, 14.5 ],
 			"faces": {
@@ -648,7 +649,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7.75, 1.5 ],
 			"to": [ 7.75, 8, 1.75 ],
 			"faces": {
@@ -660,7 +661,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.75, 1.75 ],
 			"to": [ 6.75, 8, 2.5 ],
 			"faces": {
@@ -672,7 +673,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.75, 3 ],
 			"to": [ 7.5, 8.25, 3.25 ],
 			"faces": {
@@ -685,7 +686,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7.75, 3.75 ],
 			"to": [ 8, 8, 4 ],
 			"faces": {
@@ -697,7 +698,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7.75, 12 ],
 			"to": [ 7.75, 8, 12.25 ],
 			"faces": {
@@ -709,7 +710,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.75, 12.25 ],
 			"to": [ 6.75, 8, 13 ],
 			"faces": {
@@ -721,7 +722,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 7.75, 13.5 ],
 			"to": [ 7.5, 8.25, 13.75 ],
 			"faces": {
@@ -734,7 +735,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 7.75, 14.25 ],
 			"to": [ 7.75, 8, 14.5 ],
 			"faces": {
@@ -746,7 +747,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 1.5 ],
 			"to": [ 7, 9, 2 ],
 			"faces": {
@@ -758,7 +759,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 2 ],
 			"to": [ 6.75, 8.25, 2.5 ],
 			"faces": {
@@ -768,7 +769,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 2.5 ],
 			"to": [ 7.5, 8.5, 3 ],
 			"faces": {
@@ -781,7 +782,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 3.25 ],
 			"to": [ 6.75, 8.25, 3.5 ],
 			"faces": {
@@ -789,7 +790,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 3.5 ],
 			"to": [ 7, 9, 4 ],
 			"faces": {
@@ -801,7 +802,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 11.5 ],
 			"to": [ 7, 9, 12.5 ],
 			"faces": {
@@ -814,7 +815,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 12.5 ],
 			"to": [ 6.75, 8.25, 13 ],
 			"faces": {
@@ -824,7 +825,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 13 ],
 			"to": [ 7.5, 8.5, 13.5 ],
 			"faces": {
@@ -837,7 +838,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 13.75 ],
 			"to": [ 6.75, 8.25, 14 ],
 			"faces": {
@@ -845,7 +846,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8, 14 ],
 			"to": [ 7, 9, 14.5 ],
 			"faces": {
@@ -857,7 +858,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8.25, 2 ],
 			"to": [ 7.75, 8.5, 2.25 ],
 			"faces": {
@@ -869,7 +870,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 8.25, 2.25 ],
 			"to": [ 6.75, 8.5, 2.5 ],
 			"faces": {
@@ -877,7 +878,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 8.25, 3 ],
 			"to": [ 6.75, 8.5, 3.25 ],
 			"faces": {
@@ -885,7 +886,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8.25, 3.25 ],
 			"to": [ 7.75, 8.5, 3.5 ],
 			"faces": {
@@ -897,7 +898,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8.25, 12.5 ],
 			"to": [ 7.75, 8.5, 12.75 ],
 			"faces": {
@@ -909,7 +910,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 8.25, 12.75 ],
 			"to": [ 6.75, 8.5, 13 ],
 			"faces": {
@@ -917,7 +918,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.5, 8.25, 13.5 ],
 			"to": [ 6.75, 8.5, 13.75 ],
 			"faces": {
@@ -925,7 +926,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8.25, 13.75 ],
 			"to": [ 7.75, 8.5, 14 ],
 			"faces": {
@@ -937,7 +938,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8.5, 2 ],
 			"to": [ 7, 9.5, 3.5 ],
 			"faces": {
@@ -950,7 +951,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.5, 8.5, 12.5 ],
 			"to": [ 7, 9.5, 14 ],
 			"faces": {
@@ -963,7 +964,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6, 2.25 ],
 			"to": [ 7.5, 6.5, 2.5 ],
 			"faces": {
@@ -973,7 +974,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6, 3 ],
 			"to": [ 7.5, 6.5, 3.25 ],
 			"faces": {
@@ -983,7 +984,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6, 12.75 ],
 			"to": [ 7.5, 6.5, 13 ],
 			"faces": {
@@ -993,7 +994,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6, 13.5 ],
 			"to": [ 7.5, 6.5, 13.75 ],
 			"faces": {
@@ -1003,7 +1004,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.25, 2 ],
 			"to": [ 7.5, 6.5, 2.25 ],
 			"faces": {
@@ -1013,7 +1014,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.25, 3.25 ],
 			"to": [ 7.5, 6.5, 3.5 ],
 			"faces": {
@@ -1022,7 +1023,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.25, 12.5 ],
 			"to": [ 7.5, 6.5, 12.75 ],
 			"faces": {
@@ -1032,7 +1033,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.25, 13.75 ],
 			"to": [ 7.5, 6.5, 14 ],
 			"faces": {
@@ -1041,7 +1042,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.5, 1.75 ],
 			"to": [ 7.5, 7, 2 ],
 			"faces": {
@@ -1051,14 +1052,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
-			"from": [ 6.75, 6.5, 2 ],
-			"to": [ 7.25, 6.75, 2.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 6.5, 2.25 ],
 			"to": [ 7.5, 6.75, 2.5 ],
 			"faces": {
@@ -1069,7 +1063,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 6.5, 3 ],
 			"to": [ 7.5, 6.75, 3.25 ],
 			"faces": {
@@ -1080,7 +1074,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.5, 3.25 ],
 			"to": [ 7.25, 6.75, 3.75 ],
 			"faces": {
@@ -1091,7 +1085,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.5, 12.25 ],
 			"to": [ 7.5, 7, 12.5 ],
 			"faces": {
@@ -1101,14 +1095,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
-			"from": [ 6.75, 6.5, 12.5 ],
-			"to": [ 7.25, 6.75, 12.75 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 6.5, 12.75 ],
 			"to": [ 7.5, 6.75, 13 ],
 			"faces": {
@@ -1119,7 +1106,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 6.5, 13.5 ],
 			"to": [ 7.5, 6.75, 13.75 ],
 			"faces": {
@@ -1130,7 +1117,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.5, 13.75 ],
 			"to": [ 7.25, 6.75, 14.25 ],
 			"faces": {
@@ -1141,7 +1128,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.75, 1.5 ],
 			"to": [ 7.5, 7, 1.75 ],
 			"faces": {
@@ -1150,7 +1137,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 6.75, 2 ],
 			"to": [ 7.5, 7, 2.25 ],
 			"faces": {
@@ -1161,7 +1148,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 6.75, 3.25 ],
 			"to": [ 7.5, 7, 3.5 ],
 			"faces": {
@@ -1172,7 +1159,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.75, 3.5 ],
 			"to": [ 7.5, 7, 4 ],
 			"faces": {
@@ -1183,7 +1170,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.75, 12 ],
 			"to": [ 7.5, 7, 12.25 ],
 			"faces": {
@@ -1191,7 +1178,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 6.75, 12.5 ],
 			"to": [ 7.5, 7, 12.75 ],
 			"faces": {
@@ -1202,7 +1189,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 6.75, 13.75 ],
 			"to": [ 7.5, 7, 14 ],
 			"faces": {
@@ -1213,7 +1200,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 6.75, 14 ],
 			"to": [ 7.5, 7, 14.5 ],
 			"faces": {
@@ -1224,7 +1211,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.5, 1.5 ],
 			"to": [ 7.5, 7.75, 2 ],
 			"faces": {
@@ -1235,7 +1222,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 7.5, 2 ],
 			"to": [ 7.5, 7.75, 2.25 ],
 			"faces": {
@@ -1246,7 +1233,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.5, 3.5 ],
 			"to": [ 7.5, 8, 3.75 ],
 			"faces": {
@@ -1255,7 +1242,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.5, 3.75 ],
 			"to": [ 7.5, 7.75, 4 ],
 			"faces": {
@@ -1263,7 +1250,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.5, 12 ],
 			"to": [ 7.5, 7.75, 12.5 ],
 			"faces": {
@@ -1274,7 +1261,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 7.5, 12.5 ],
 			"to": [ 7.5, 7.75, 12.75 ],
 			"faces": {
@@ -1285,7 +1272,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.5, 14 ],
 			"to": [ 7.5, 8, 14.25 ],
 			"faces": {
@@ -1294,7 +1281,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.5, 14.25 ],
 			"to": [ 7.5, 7.75, 14.5 ],
 			"faces": {
@@ -1302,7 +1289,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.75, 1.75 ],
 			"to": [ 7.5, 8, 2 ],
 			"faces": {
@@ -1311,7 +1298,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.75, 2 ],
 			"to": [ 7.25, 8.25, 2.25 ],
 			"faces": {
@@ -1322,7 +1309,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 7.75, 2.25 ],
 			"to": [ 7.5, 8, 2.5 ],
 			"faces": {
@@ -1333,7 +1320,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.75, 12.25 ],
 			"to": [ 7.5, 8, 12.5 ],
 			"faces": {
@@ -1342,7 +1329,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 7.75, 12.5 ],
 			"to": [ 7.25, 8.25, 12.75 ],
 			"faces": {
@@ -1353,7 +1340,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 6.75, 7.75, 12.75 ],
 			"to": [ 7.5, 8, 13 ],
 			"faces": {
@@ -1364,7 +1351,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 8, 2.25 ],
 			"to": [ 7.5, 8.5, 2.5 ],
 			"faces": {
@@ -1375,7 +1362,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 8, 3.25 ],
 			"to": [ 7.5, 8.25, 3.5 ],
 			"faces": {
@@ -1383,7 +1370,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 8, 12.75 ],
 			"to": [ 7.5, 8.5, 13 ],
 			"faces": {
@@ -1394,7 +1381,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 8, 13.75 ],
 			"to": [ 7.5, 8.25, 14 ],
 			"faces": {
@@ -1402,7 +1389,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 8.25, 3 ],
 			"to": [ 7.5, 8.5, 3.25 ],
 			"faces": {
@@ -1410,7 +1397,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 6.75, 8.25, 13.5 ],
 			"to": [ 7.5, 8.5, 13.75 ],
 			"faces": {
@@ -1418,7 +1405,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 7, 0, 3.5 ],
 			"to": [ 8, 2, 4 ],
 			"faces": {
@@ -1430,7 +1417,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 7, 0, 12 ],
 			"to": [ 8, 2, 12.5 ],
 			"faces": {
@@ -1442,7 +1429,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-D29BBA",
+			"__comment": "Element",
 			"from": [ 7, 2, 3.5 ],
 			"to": [ 8, 6, 4 ],
 			"faces": {
@@ -1451,7 +1438,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-D29BBA",
+			"__comment": "Element",
 			"from": [ 7, 2, 12 ],
 			"to": [ 8, 6, 12.5 ],
 			"faces": {
@@ -1461,7 +1448,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 4.5, 2 ],
 			"to": [ 7.5, 5, 3.5 ],
 			"faces": {
@@ -1473,7 +1460,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 4.5, 12.5 ],
 			"to": [ 7.5, 5, 14 ],
 			"faces": {
@@ -1485,7 +1472,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 5, 1 ],
 			"to": [ 7.5, 5.5, 2 ],
 			"faces": {
@@ -1498,7 +1485,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 5, 14 ],
 			"to": [ 7.5, 5.5, 15 ],
 			"faces": {
@@ -1511,7 +1498,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 5.5, 0.5 ],
 			"to": [ 7.5, 6.5, 1 ],
 			"faces": {
@@ -1524,7 +1511,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 5.5, 15 ],
 			"to": [ 7.5, 6.5, 15.5 ],
 			"faces": {
@@ -1537,7 +1524,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6, 2 ],
 			"to": [ 7.75, 6.25, 2.25 ],
 			"faces": {
@@ -1548,7 +1535,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 7, 6, 3.5 ],
 			"to": [ 8, 6.5, 4 ],
 			"faces": {
@@ -1558,7 +1545,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-D29BBA",
+			"__comment": "Element",
 			"from": [ 7, 6, 4 ],
 			"to": [ 8, 6.5, 12 ],
 			"faces": {
@@ -1569,7 +1556,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 7, 6, 12 ],
 			"to": [ 8.5, 6.25, 12.25 ],
 			"faces": {
@@ -1580,7 +1567,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 7, 6, 12.25 ],
 			"to": [ 8, 6.5, 12.5 ],
 			"faces": {
@@ -1590,7 +1577,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6, 12.5 ],
 			"to": [ 7.5, 6.25, 12.75 ],
 			"faces": {
@@ -1598,14 +1585,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
-			"from": [ 7, 6.25, 12 ],
-			"to": [ 8, 6.5, 12.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.5, 0 ],
 			"to": [ 7.5, 8, 0.5 ],
 			"faces": {
@@ -1618,7 +1598,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.5, 1.5 ],
 			"to": [ 7.75, 6.75, 1.75 ],
 			"faces": {
@@ -1629,7 +1609,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.5, 5 ],
 			"to": [ 7.5, 8, 5.5 ],
 			"faces": {
@@ -1641,7 +1621,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.5, 5.5 ],
 			"to": [ 7.5, 7, 5.75 ],
 			"faces": {
@@ -1651,7 +1631,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.5, 5.75 ],
 			"to": [ 7.5, 6.75, 6 ],
 			"faces": {
@@ -1661,7 +1641,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.5, 10 ],
 			"to": [ 7.5, 6.75, 11 ],
 			"faces": {
@@ -1673,7 +1653,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.5, 15.5 ],
 			"to": [ 7.5, 8, 16 ],
 			"faces": {
@@ -1686,7 +1666,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.75, 10.25 ],
 			"to": [ 8, 7, 10.5 ],
 			"faces": {
@@ -1698,7 +1678,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 6.75, 10.5 ],
 			"to": [ 7.5, 8, 11 ],
 			"faces": {
@@ -1710,7 +1690,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 7.5, 14.5 ],
 			"to": [ 7.75, 7.75, 15 ],
 			"faces": {
@@ -1721,7 +1701,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 7.75, 14.5 ],
 			"to": [ 7.5, 8, 15 ],
 			"faces": {
@@ -1730,7 +1710,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 8, 0.5 ],
 			"to": [ 7.5, 9, 1 ],
 			"faces": {
@@ -1743,7 +1723,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 8, 4.5 ],
 			"to": [ 8, 8.25, 4.75 ],
 			"faces": {
@@ -1755,7 +1735,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 8, 4.75 ],
 			"to": [ 7.5, 9, 5 ],
 			"faces": {
@@ -1768,7 +1748,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 8, 11 ],
 			"to": [ 7.5, 9, 11.5 ],
 			"faces": {
@@ -1781,7 +1761,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 8, 15 ],
 			"to": [ 7.75, 8.25, 15.25 ],
 			"faces": {
@@ -1793,7 +1773,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 8, 15.25 ],
 			"to": [ 7.5, 9, 15.5 ],
 			"faces": {
@@ -1806,7 +1786,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 8.25, 4.5 ],
 			"to": [ 7.5, 9, 4.75 ],
 			"faces": {
@@ -1817,7 +1797,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 8.25, 15 ],
 			"to": [ 7.5, 9, 15.25 ],
 			"faces": {
@@ -1828,7 +1808,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9, 1 ],
 			"to": [ 7.5, 9.5, 2 ],
 			"faces": {
@@ -1841,7 +1821,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9, 3.5 ],
 			"to": [ 7.75, 9.25, 3.75 ],
 			"faces": {
@@ -1853,7 +1833,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9, 3.75 ],
 			"to": [ 7.5, 9.5, 4.5 ],
 			"faces": {
@@ -1866,7 +1846,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9, 11.5 ],
 			"to": [ 7.5, 9.5, 12.5 ],
 			"faces": {
@@ -1879,7 +1859,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9, 14 ],
 			"to": [ 7.75, 9.25, 14.25 ],
 			"faces": {
@@ -1891,7 +1871,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9, 14.25 ],
 			"to": [ 7.5, 9.5, 15 ],
 			"faces": {
@@ -1904,7 +1884,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9.25, 3.5 ],
 			"to": [ 7.5, 9.5, 3.75 ],
 			"faces": {
@@ -1914,7 +1894,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9.25, 14 ],
 			"to": [ 7.5, 9.5, 14.25 ],
 			"faces": {
@@ -1924,7 +1904,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9.5, 2 ],
 			"to": [ 7.5, 10, 3.5 ],
 			"faces": {
@@ -1937,7 +1917,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7, 9.5, 12.5 ],
 			"to": [ 7.5, 10, 14 ],
 			"faces": {
@@ -1950,7 +1930,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 7.25, 6.5, 2 ],
 			"to": [ 7.5, 6.75, 2.25 ],
 			"faces": {
@@ -1958,7 +1938,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 7.25, 6.5, 3.25 ],
 			"to": [ 7.5, 6.75, 3.5 ],
 			"faces": {
@@ -1966,14 +1946,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
-			"from": [ 7.25, 6.5, 3.5 ],
-			"to": [ 7.5, 6.75, 3.75 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 7.25, 6.5, 12.5 ],
 			"to": [ 7.5, 6.75, 12.75 ],
 			"faces": {
@@ -1981,7 +1954,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 7.25, 6.5, 13.75 ],
 			"to": [ 7.5, 6.75, 14 ],
 			"faces": {
@@ -1989,7 +1962,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7.25, 6.5, 14 ],
 			"to": [ 7.5, 6.75, 14.25 ],
 			"faces": {
@@ -1997,7 +1970,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 7.25, 7.75, 2 ],
 			"to": [ 7.5, 8, 2.25 ],
 			"faces": {
@@ -2005,7 +1978,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B05E43",
+			"__comment": "Element",
 			"from": [ 7.25, 7.75, 12.5 ],
 			"to": [ 7.5, 8, 12.75 ],
 			"faces": {
@@ -2013,7 +1986,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7.25, 8, 2 ],
 			"to": [ 7.5, 8.25, 2.25 ],
 			"faces": {
@@ -2021,7 +1994,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-C56A4B",
+			"__comment": "Element",
 			"from": [ 7.25, 8, 12.5 ],
 			"to": [ 7.5, 8.25, 12.75 ],
 			"faces": {
@@ -2029,7 +2002,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 4.75, 2.5 ],
 			"to": [ 8, 5, 3 ],
 			"faces": {
@@ -2040,7 +2013,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 4.75, 13 ],
 			"to": [ 8, 5, 13.5 ],
 			"faces": {
@@ -2051,7 +2024,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 5, 1.75 ],
 			"to": [ 8, 5.5, 2 ],
 			"faces": {
@@ -2061,7 +2034,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 5, 2 ],
 			"to": [ 8, 5.5, 2.5 ],
 			"faces": {
@@ -2071,7 +2044,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FFE255",
+			"__comment": "Element",
 			"from": [ 7.5, 5, 2.5 ],
 			"to": [ 8, 5.5, 3 ],
 			"faces": {
@@ -2080,7 +2053,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 5, 3 ],
 			"to": [ 8, 6, 3.5 ],
 			"faces": {
@@ -2092,7 +2065,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-F0F0F0",
+			"__comment": "Element",
 			"from": [ 7.5, 5, 12.5 ],
 			"to": [ 8, 5.5, 13 ],
 			"faces": {
@@ -2102,7 +2075,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 5, 13 ],
 			"to": [ 8, 5.5, 14 ],
 			"faces": {
@@ -2113,7 +2086,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 5, 14 ],
 			"to": [ 8, 5.5, 14.25 ],
 			"faces": {
@@ -2123,7 +2096,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 5.25, 1.5 ],
 			"to": [ 8, 5.5, 1.75 ],
 			"faces": {
@@ -2133,7 +2106,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 5.25, 14.25 ],
 			"to": [ 8, 5.5, 14.5 ],
 			"faces": {
@@ -2143,7 +2116,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 5.5, 1 ],
 			"to": [ 8, 6, 2 ],
 			"faces": {
@@ -2155,7 +2128,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FF3A3A",
+			"__comment": "Element",
 			"from": [ 7.5, 5.5, 2 ],
 			"to": [ 8, 6, 2.5 ],
 			"faces": {
@@ -2165,7 +2138,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 5.5, 2.5 ],
 			"to": [ 8, 6, 3 ],
 			"faces": {
@@ -2175,7 +2148,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 5.5, 12.5 ],
 			"to": [ 8, 6, 13 ],
 			"faces": {
@@ -2184,7 +2157,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FFE255",
+			"__comment": "Element",
 			"from": [ 7.5, 5.5, 13 ],
 			"to": [ 8, 6, 13.5 ],
 			"faces": {
@@ -2194,7 +2167,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 5.5, 13.5 ],
 			"to": [ 8, 6, 14 ],
 			"faces": {
@@ -2204,7 +2177,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FF3A3A",
+			"__comment": "Element",
 			"from": [ 7.5, 5.5, 14 ],
 			"to": [ 8, 6, 14.5 ],
 			"faces": {
@@ -2214,7 +2187,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 5.5, 14.5 ],
 			"to": [ 8, 6, 15 ],
 			"faces": {
@@ -2225,7 +2198,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 0.75 ],
 			"to": [ 8, 6.5, 1 ],
 			"faces": {
@@ -2235,7 +2208,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-3A84FF",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 1 ],
 			"to": [ 8, 6.5, 1.5 ],
 			"faces": {
@@ -2244,7 +2217,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 1.5 ],
 			"to": [ 8, 6.5, 2 ],
 			"faces": {
@@ -2255,7 +2228,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 2.25 ],
 			"to": [ 8, 6.5, 2.5 ],
 			"faces": {
@@ -2266,7 +2239,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 3 ],
 			"to": [ 8, 6.5, 3.25 ],
 			"faces": {
@@ -2277,7 +2250,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 12.5 ],
 			"to": [ 8, 6.5, 13 ],
 			"faces": {
@@ -2288,7 +2261,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 13.5 ],
 			"to": [ 8, 6.5, 13.75 ],
 			"faces": {
@@ -2299,7 +2272,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 14 ],
 			"to": [ 8, 6.5, 14.5 ],
 			"faces": {
@@ -2310,7 +2283,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-3A84FF",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 14.5 ],
 			"to": [ 8, 6.5, 15 ],
 			"faces": {
@@ -2319,7 +2292,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6, 15 ],
 			"to": [ 8, 6.5, 15.25 ],
 			"faces": {
@@ -2329,7 +2302,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.25, 0.5 ],
 			"to": [ 8, 6.5, 0.75 ],
 			"faces": {
@@ -2339,7 +2312,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.25, 2 ],
 			"to": [ 8, 6.5, 2.25 ],
 			"faces": {
@@ -2349,7 +2322,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.25, 2.5 ],
 			"to": [ 8, 6.5, 3 ],
 			"faces": {
@@ -2359,7 +2332,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.25, 3.25 ],
 			"to": [ 8, 6.5, 3.5 ],
 			"faces": {
@@ -2369,7 +2342,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.25, 13 ],
 			"to": [ 8, 6.5, 13.5 ],
 			"faces": {
@@ -2379,7 +2352,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.25, 13.75 ],
 			"to": [ 8, 6.5, 14 ],
 			"faces": {
@@ -2389,7 +2362,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.25, 15.25 ],
 			"to": [ 8, 6.5, 15.5 ],
 			"faces": {
@@ -2399,7 +2372,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 0.5 ],
 			"to": [ 8, 7.5, 1 ],
 			"faces": {
@@ -2411,7 +2384,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 1 ],
 			"to": [ 8, 7, 1.5 ],
 			"faces": {
@@ -2421,7 +2394,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 1.75 ],
 			"to": [ 8, 8, 2 ],
 			"faces": {
@@ -2432,7 +2405,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 3.5 ],
 			"to": [ 8, 8, 3.75 ],
 			"faces": {
@@ -2443,7 +2416,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 4 ],
 			"to": [ 8, 8.5, 4.5 ],
 			"faces": {
@@ -2454,7 +2427,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 4.5 ],
 			"to": [ 7.75, 6.75, 5 ],
 			"faces": {
@@ -2464,14 +2437,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
-			"from": [ 7.5, 6.5, 5 ],
-			"to": [ 7.75, 6.75, 5.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 5.25 ],
 			"to": [ 8, 6.75, 5.5 ],
 			"faces": {
@@ -2482,7 +2448,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 5.5 ],
 			"to": [ 7.75, 7, 6 ],
 			"faces": {
@@ -2493,7 +2459,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-6A9197",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 7.5 ],
 			"to": [ 8, 7.5, 8.5 ],
 			"faces": {
@@ -2505,7 +2471,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 10 ],
 			"to": [ 7.75, 6.75, 10.25 ],
 			"faces": {
@@ -2513,7 +2479,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 10.25 ],
 			"to": [ 7.75, 6.75, 10.75 ],
 			"faces": {
@@ -2522,7 +2488,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 10.75 ],
 			"to": [ 7.75, 6.75, 11.25 ],
 			"faces": {
@@ -2531,7 +2497,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 11.25 ],
 			"to": [ 8, 6.75, 11.5 ],
 			"faces": {
@@ -2542,7 +2508,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 11.5 ],
 			"to": [ 8, 9, 12 ],
 			"faces": {
@@ -2554,7 +2520,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 12.25 ],
 			"to": [ 8, 8, 12.5 ],
 			"faces": {
@@ -2565,7 +2531,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 14 ],
 			"to": [ 8, 8, 14.25 ],
 			"faces": {
@@ -2576,7 +2542,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 14.5 ],
 			"to": [ 8, 7.5, 15 ],
 			"faces": {
@@ -2588,7 +2554,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 6.5, 15 ],
 			"to": [ 8, 7, 15.5 ],
 			"faces": {
@@ -2599,7 +2565,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.75, 1.5 ],
 			"to": [ 8, 7, 1.75 ],
 			"faces": {
@@ -2609,7 +2575,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.75, 3.75 ],
 			"to": [ 8, 7.75, 4 ],
 			"faces": {
@@ -2618,7 +2584,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.5, 6.75, 4.5 ],
 			"to": [ 7.75, 7, 4.75 ],
 			"faces": {
@@ -2626,7 +2592,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 6.75, 4.75 ],
 			"to": [ 7.75, 7, 5 ],
 			"faces": {
@@ -2634,21 +2600,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
-			"from": [ 7.5, 6.75, 5 ],
-			"to": [ 7.75, 7, 5.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-83B4BB",
-			"from": [ 7.5, 6.75, 5.25 ],
-			"to": [ 7.75, 7, 5.5 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 6.75, 10 ],
 			"to": [ 7.75, 7, 10.25 ],
 			"faces": {
@@ -2657,21 +2609,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
-			"from": [ 7.5, 6.75, 10.5 ],
-			"to": [ 7.75, 7, 10.75 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
-			"from": [ 7.5, 6.75, 10.75 ],
-			"to": [ 7.75, 7, 11 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.5, 6.75, 11 ],
 			"to": [ 8, 7, 11.25 ],
 			"faces": {
@@ -2683,7 +2621,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 6.75, 11.25 ],
 			"to": [ 7.75, 7, 11.5 ],
 			"faces": {
@@ -2691,14 +2629,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
-			"from": [ 7.5, 6.75, 12 ],
-			"to": [ 8, 7, 12.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 6.75, 14.25 ],
 			"to": [ 8, 7.75, 14.5 ],
 			"faces": {
@@ -2710,7 +2641,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FFE255",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 1 ],
 			"to": [ 8, 7.5, 1.5 ],
 			"faces": {
@@ -2720,7 +2651,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 4.5 ],
 			"to": [ 8, 8, 5 ],
 			"faces": {
@@ -2732,14 +2663,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
-			"from": [ 7.5, 7, 5 ],
-			"to": [ 7.75, 7.25, 5.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 5.25 ],
 			"to": [ 7.75, 7.25, 6 ],
 			"faces": {
@@ -2749,7 +2673,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 6 ],
 			"to": [ 7.75, 7.5, 6.25 ],
 			"faces": {
@@ -2761,7 +2685,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 6.25 ],
 			"to": [ 8, 7.25, 6.5 ],
 			"faces": {
@@ -2774,7 +2698,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 6.5 ],
 			"to": [ 7.75, 7.25, 6.75 ],
 			"faces": {
@@ -2783,7 +2707,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 6.75 ],
 			"to": [ 7.75, 7.25, 7 ],
 			"faces": {
@@ -2792,7 +2716,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 7 ],
 			"to": [ 7.75, 7.25, 7.25 ],
 			"faces": {
@@ -2801,7 +2725,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 7.25 ],
 			"to": [ 7.75, 7.25, 7.5 ],
 			"faces": {
@@ -2810,7 +2734,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 8.5 ],
 			"to": [ 8, 7.25, 8.75 ],
 			"faces": {
@@ -2821,7 +2745,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 8.75 ],
 			"to": [ 7.75, 7.25, 9 ],
 			"faces": {
@@ -2830,7 +2754,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 9 ],
 			"to": [ 7.75, 7.25, 9.25 ],
 			"faces": {
@@ -2839,7 +2763,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 9.25 ],
 			"to": [ 7.75, 7.25, 9.5 ],
 			"faces": {
@@ -2848,7 +2772,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 9.5 ],
 			"to": [ 7.75, 7.25, 9.75 ],
 			"faces": {
@@ -2857,7 +2781,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 9.75 ],
 			"to": [ 7.75, 7.25, 10 ],
 			"faces": {
@@ -2866,7 +2790,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 10 ],
 			"to": [ 7.75, 7.25, 10.25 ],
 			"faces": {
@@ -2874,7 +2798,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 10.25 ],
 			"to": [ 7.75, 7.25, 10.5 ],
 			"faces": {
@@ -2882,14 +2806,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 7.5, 7, 10.5 ],
-			"to": [ 7.75, 7.25, 10.75 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 10.75 ],
 			"to": [ 8, 7.25, 11 ],
 			"faces": {
@@ -2899,7 +2816,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 11 ],
 			"to": [ 8, 8, 11.5 ],
 			"faces": {
@@ -2910,7 +2827,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FFE255",
+			"__comment": "Element",
 			"from": [ 7.5, 7, 15 ],
 			"to": [ 8, 7.5, 15.5 ],
 			"faces": {
@@ -2920,7 +2837,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 5 ],
 			"to": [ 8, 7.5, 5.25 ],
 			"faces": {
@@ -2931,14 +2848,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 7.5, 7.25, 5.25 ],
-			"to": [ 7.75, 7.5, 5.5 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 5.5 ],
 			"to": [ 7.75, 7.5, 5.75 ],
 			"faces": {
@@ -2946,7 +2856,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 5.75 ],
 			"to": [ 7.75, 7.5, 6 ],
 			"faces": {
@@ -2954,7 +2864,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 6.25 ],
 			"to": [ 7.75, 7.75, 6.5 ],
 			"faces": {
@@ -2965,7 +2875,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 6.5 ],
 			"to": [ 7.75, 7.5, 7 ],
 			"faces": {
@@ -2976,7 +2886,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 7 ],
 			"to": [ 7.75, 7.5, 7.25 ],
 			"faces": {
@@ -2985,7 +2895,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 7.25 ],
 			"to": [ 7.75, 7.5, 7.5 ],
 			"faces": {
@@ -2994,7 +2904,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 8.5 ],
 			"to": [ 8, 7.5, 8.75 ],
 			"faces": {
@@ -3005,7 +2915,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 8.75 ],
 			"to": [ 7.75, 7.5, 9 ],
 			"faces": {
@@ -3014,7 +2924,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 9 ],
 			"to": [ 7.75, 7.5, 9.25 ],
 			"faces": {
@@ -3023,7 +2933,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 9.25 ],
 			"to": [ 7.75, 7.5, 9.5 ],
 			"faces": {
@@ -3032,7 +2942,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 9.5 ],
 			"to": [ 8, 7.5, 9.75 ],
 			"faces": {
@@ -3045,7 +2955,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 9.75 ],
 			"to": [ 7.75, 7.75, 10 ],
 			"faces": {
@@ -3056,7 +2966,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 10 ],
 			"to": [ 8, 7.5, 10.25 ],
 			"faces": {
@@ -3069,7 +2979,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 10.25 ],
 			"to": [ 7.75, 7.5, 10.5 ],
 			"faces": {
@@ -3077,7 +2987,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 10.5 ],
 			"to": [ 7.75, 8, 10.75 ],
 			"faces": {
@@ -3088,7 +2998,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 10.75 ],
 			"to": [ 8, 7.5, 11 ],
 			"faces": {
@@ -3098,7 +3008,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 7.25, 12 ],
 			"to": [ 8, 7.75, 12.25 ],
 			"faces": {
@@ -3108,7 +3018,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FF3A3A",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 0.5 ],
 			"to": [ 8, 8, 1 ],
 			"faces": {
@@ -3118,7 +3028,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 1 ],
 			"to": [ 8, 8.5, 1.5 ],
 			"faces": {
@@ -3129,7 +3039,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 1.5 ],
 			"to": [ 8, 7.75, 1.75 ],
 			"faces": {
@@ -3139,14 +3049,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 7.5, 7.5, 5 ],
-			"to": [ 7.75, 7.75, 5.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 5.25 ],
 			"to": [ 8, 7.75, 5.5 ],
 			"faces": {
@@ -3158,7 +3061,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 5.5 ],
 			"to": [ 7.75, 8, 5.75 ],
 			"faces": {
@@ -3169,7 +3072,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 5.75 ],
 			"to": [ 7.75, 7.75, 6 ],
 			"faces": {
@@ -3177,7 +3080,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 6 ],
 			"to": [ 8, 7.75, 6.25 ],
 			"faces": {
@@ -3190,7 +3093,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 9.5 ],
 			"to": [ 7.75, 7.75, 9.75 ],
 			"faces": {
@@ -3199,7 +3102,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 10 ],
 			"to": [ 7.75, 7.75, 10.5 ],
 			"faces": {
@@ -3210,14 +3113,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 7.5, 7.5, 10.75 ],
-			"to": [ 7.75, 7.75, 11 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 7.5, 15 ],
 			"to": [ 8, 8, 15.5 ],
 			"faces": {
@@ -3229,7 +3125,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 5 ],
 			"to": [ 7.75, 8, 5.25 ],
 			"faces": {
@@ -3237,7 +3133,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 5.25 ],
 			"to": [ 7.75, 8, 5.5 ],
 			"faces": {
@@ -3245,7 +3141,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 5.75 ],
 			"to": [ 7.75, 8, 6 ],
 			"faces": {
@@ -3254,7 +3150,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 6 ],
 			"to": [ 7.75, 8, 6.25 ],
 			"faces": {
@@ -3263,7 +3159,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 6.25 ],
 			"to": [ 8, 8, 6.5 ],
 			"faces": {
@@ -3276,7 +3172,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 9.5 ],
 			"to": [ 7.75, 8, 9.75 ],
 			"faces": {
@@ -3286,7 +3182,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 9.75 ],
 			"to": [ 7.75, 8, 10 ],
 			"faces": {
@@ -3295,7 +3191,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 10 ],
 			"to": [ 7.75, 8, 10.25 ],
 			"faces": {
@@ -3304,7 +3200,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 10.25 ],
 			"to": [ 7.75, 8, 10.5 ],
 			"faces": {
@@ -3313,7 +3209,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 10.75 ],
 			"to": [ 7.75, 8, 11 ],
 			"faces": {
@@ -3321,7 +3217,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-F0F0F0",
+			"__comment": "Element",
 			"from": [ 7.5, 7.75, 14.5 ],
 			"to": [ 8, 8, 15 ],
 			"faces": {
@@ -3331,7 +3227,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 0.5 ],
 			"to": [ 8, 8.25, 1 ],
 			"faces": {
@@ -3341,7 +3237,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 1.5 ],
 			"to": [ 8, 9, 2 ],
 			"faces": {
@@ -3353,7 +3249,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 2 ],
 			"to": [ 8, 8.25, 3.5 ],
 			"faces": {
@@ -3364,7 +3260,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-F0F0F0",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 3.5 ],
 			"to": [ 8, 8.5, 4 ],
 			"faces": {
@@ -3375,7 +3271,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 4.75 ],
 			"to": [ 8.25, 8.25, 5 ],
 			"faces": {
@@ -3386,7 +3282,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 11 ],
 			"to": [ 8.25, 8.25, 11.5 ],
 			"faces": {
@@ -3398,7 +3294,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 12 ],
 			"to": [ 8, 8.5, 12.5 ],
 			"faces": {
@@ -3409,7 +3305,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 12.5 ],
 			"to": [ 8, 8.25, 14 ],
 			"faces": {
@@ -3420,7 +3316,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 14 ],
 			"to": [ 8, 9, 14.5 ],
 			"faces": {
@@ -3433,7 +3329,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 14.5 ],
 			"to": [ 8, 8.5, 15 ],
 			"faces": {
@@ -3443,7 +3339,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8, 15.25 ],
 			"to": [ 8, 8.25, 15.5 ],
 			"faces": {
@@ -3454,7 +3350,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8.25, 0.75 ],
 			"to": [ 8, 8.5, 1 ],
 			"faces": {
@@ -3464,7 +3360,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8.25, 2.25 ],
 			"to": [ 8, 8.5, 3.25 ],
 			"faces": {
@@ -3476,7 +3372,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8.25, 4.5 ],
 			"to": [ 8, 8.5, 5 ],
 			"faces": {
@@ -3488,7 +3384,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8.25, 11 ],
 			"to": [ 8, 8.5, 11.5 ],
 			"faces": {
@@ -3498,7 +3394,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8.25, 12.75 ],
 			"to": [ 8, 8.5, 13.75 ],
 			"faces": {
@@ -3510,7 +3406,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 8.25, 15 ],
 			"to": [ 8, 8.5, 15.25 ],
 			"faces": {
@@ -3521,7 +3417,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-F0F0F0",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 1 ],
 			"to": [ 8, 9, 1.5 ],
 			"faces": {
@@ -3532,7 +3428,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 2 ],
 			"to": [ 8, 9, 2.5 ],
 			"faces": {
@@ -3542,7 +3438,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FF3A3A",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 2.5 ],
 			"to": [ 8, 9, 3 ],
 			"faces": {
@@ -3551,7 +3447,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 3 ],
 			"to": [ 8, 9, 4 ],
 			"faces": {
@@ -3562,7 +3458,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FFE255",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 4 ],
 			"to": [ 8, 9, 4.5 ],
 			"faces": {
@@ -3573,7 +3469,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-3A84FF",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 12 ],
 			"to": [ 8, 9, 12.5 ],
 			"faces": {
@@ -3582,7 +3478,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 12.5 ],
 			"to": [ 8, 9.5, 13 ],
 			"faces": {
@@ -3595,7 +3491,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 13 ],
 			"to": [ 8, 9, 13.5 ],
 			"faces": {
@@ -3604,7 +3500,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FFE255",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 13.5 ],
 			"to": [ 8, 9, 14 ],
 			"faces": {
@@ -3614,7 +3510,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-3A84FF",
+			"__comment": "Element",
 			"from": [ 7.5, 8.5, 14.5 ],
 			"to": [ 8, 9, 15 ],
 			"faces": {
@@ -3625,7 +3521,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 1.5 ],
 			"to": [ 8, 9.25, 2 ],
 			"faces": {
@@ -3635,7 +3531,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FFE255",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 2 ],
 			"to": [ 8, 9.5, 2.5 ],
 			"faces": {
@@ -3646,7 +3542,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 2.5 ],
 			"to": [ 8, 9.5, 3 ],
 			"faces": {
@@ -3655,7 +3551,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-3A84FF",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 3 ],
 			"to": [ 8, 9.5, 3.5 ],
 			"faces": {
@@ -3666,7 +3562,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 3.75 ],
 			"to": [ 8, 9.25, 4 ],
 			"faces": {
@@ -3677,7 +3573,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 12 ],
 			"to": [ 8, 9.25, 12.5 ],
 			"faces": {
@@ -3687,7 +3583,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-FF3A3A",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 13 ],
 			"to": [ 8, 9.5, 13.5 ],
 			"faces": {
@@ -3696,7 +3592,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-E781B0",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 13.5 ],
 			"to": [ 8, 9.5, 14 ],
 			"faces": {
@@ -3707,7 +3603,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9, 14.25 ],
 			"to": [ 8, 9.25, 14.5 ],
 			"faces": {
@@ -3718,7 +3614,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9.25, 1.75 ],
 			"to": [ 8, 9.5, 2 ],
 			"faces": {
@@ -3728,7 +3624,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9.25, 3.5 ],
 			"to": [ 8, 9.5, 3.75 ],
 			"faces": {
@@ -3739,7 +3635,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9.25, 12.25 ],
 			"to": [ 8, 9.5, 12.5 ],
 			"faces": {
@@ -3749,7 +3645,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9.25, 14 ],
 			"to": [ 8, 9.5, 14.25 ],
 			"faces": {
@@ -3760,7 +3656,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9.5, 2.5 ],
 			"to": [ 8, 9.75, 3 ],
 			"faces": {
@@ -3771,7 +3667,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.5, 9.5, 13 ],
 			"to": [ 8, 9.75, 13.5 ],
 			"faces": {
@@ -3782,7 +3678,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 6, 2 ],
 			"to": [ 8, 6.25, 2.25 ],
 			"faces": {
@@ -3790,7 +3686,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 6, 2.5 ],
 			"to": [ 8, 6.25, 3 ],
 			"faces": {
@@ -3798,7 +3694,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 6, 3.25 ],
 			"to": [ 8, 6.25, 3.5 ],
 			"faces": {
@@ -3806,7 +3702,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 6, 13 ],
 			"to": [ 8, 6.25, 13.5 ],
 			"faces": {
@@ -3814,7 +3710,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 6, 13.75 ],
 			"to": [ 8, 6.25, 14 ],
 			"faces": {
@@ -3822,7 +3718,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 1.5 ],
 			"to": [ 8, 6.75, 1.75 ],
 			"faces": {
@@ -3830,7 +3726,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 4.5 ],
 			"to": [ 8, 7, 4.75 ],
 			"faces": {
@@ -3840,7 +3736,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 4.75 ],
 			"to": [ 8, 6.75, 5 ],
 			"faces": {
@@ -3848,7 +3744,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 5 ],
 			"to": [ 8, 7, 5.25 ],
 			"faces": {
@@ -3859,7 +3755,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 5.5 ],
 			"to": [ 8.25, 6.75, 5.75 ],
 			"faces": {
@@ -3870,7 +3766,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 5.75 ],
 			"to": [ 8, 6.75, 6 ],
 			"faces": {
@@ -3878,7 +3774,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 10 ],
 			"to": [ 8.5, 6.75, 10.25 ],
 			"faces": {
@@ -3890,14 +3786,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
-			"from": [ 7.75, 6.5, 10.25 ],
-			"to": [ 8, 6.75, 10.5 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 10.5 ],
 			"to": [ 8, 6.75, 10.75 ],
 			"faces": {
@@ -3905,7 +3794,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 10.75 ],
 			"to": [ 8, 6.75, 11.25 ],
 			"faces": {
@@ -3914,7 +3803,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 6.5, 14.25 ],
 			"to": [ 8, 6.75, 14.5 ],
 			"faces": {
@@ -3922,7 +3811,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 6.75, 4.75 ],
 			"to": [ 8, 7, 5 ],
 			"faces": {
@@ -3930,7 +3819,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.75, 6.75, 5.25 ],
 			"to": [ 8, 7, 5.5 ],
 			"faces": {
@@ -3938,14 +3827,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
-			"from": [ 7.75, 6.75, 5.5 ],
-			"to": [ 8, 7, 5.75 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 6.75, 5.75 ],
 			"to": [ 8, 7, 6 ],
 			"faces": {
@@ -3953,7 +3835,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.75, 6.75, 10 ],
 			"to": [ 8, 7, 10.25 ],
 			"faces": {
@@ -3961,7 +3843,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 6.75, 10.5 ],
 			"to": [ 8, 7.25, 10.75 ],
 			"faces": {
@@ -3972,7 +3854,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 6.75, 10.75 ],
 			"to": [ 8, 7, 11 ],
 			"faces": {
@@ -3980,7 +3862,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 6.75, 11.25 ],
 			"to": [ 8, 7, 11.5 ],
 			"faces": {
@@ -3988,7 +3870,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 1.5 ],
 			"to": [ 8, 7.5, 1.75 ],
 			"faces": {
@@ -3996,7 +3878,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 5 ],
 			"to": [ 8, 7.25, 6 ],
 			"faces": {
@@ -4007,7 +3889,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 6 ],
 			"to": [ 8, 7.25, 6.25 ],
 			"faces": {
@@ -4016,7 +3898,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 6.5 ],
 			"to": [ 8, 7.25, 6.75 ],
 			"faces": {
@@ -4025,7 +3907,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 6.75 ],
 			"to": [ 8, 7.5, 7 ],
 			"faces": {
@@ -4038,7 +3920,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 7 ],
 			"to": [ 8, 7.25, 7.5 ],
 			"faces": {
@@ -4049,7 +3931,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 8.75 ],
 			"to": [ 8, 7.5, 9 ],
 			"faces": {
@@ -4062,7 +3944,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 9 ],
 			"to": [ 8, 7.25, 9.25 ],
 			"faces": {
@@ -4071,7 +3953,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 9.25 ],
 			"to": [ 8, 7.25, 9.5 ],
 			"faces": {
@@ -4080,7 +3962,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 9.5 ],
 			"to": [ 8, 7.25, 9.75 ],
 			"faces": {
@@ -4089,7 +3971,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 9.75 ],
 			"to": [ 8, 7.25, 10 ],
 			"faces": {
@@ -4098,7 +3980,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 7, 10 ],
 			"to": [ 8, 7.25, 10.5 ],
 			"faces": {
@@ -4109,7 +3991,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 5.25 ],
 			"to": [ 8, 7.5, 5.5 ],
 			"faces": {
@@ -4117,7 +3999,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 5.5 ],
 			"to": [ 8, 7.5, 5.75 ],
 			"faces": {
@@ -4125,7 +4007,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 5.75 ],
 			"to": [ 8, 7.5, 6 ],
 			"faces": {
@@ -4133,7 +4015,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 6 ],
 			"to": [ 8, 7.5, 6.75 ],
 			"faces": {
@@ -4144,7 +4026,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 7 ],
 			"to": [ 8, 7.5, 7.25 ],
 			"faces": {
@@ -4153,7 +4035,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 7.25 ],
 			"to": [ 8, 7.5, 7.5 ],
 			"faces": {
@@ -4162,7 +4044,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 9 ],
 			"to": [ 8, 7.5, 9.25 ],
 			"faces": {
@@ -4171,7 +4053,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 9.25 ],
 			"to": [ 8, 7.5, 9.5 ],
 			"faces": {
@@ -4180,7 +4062,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 9.75 ],
 			"to": [ 8, 7.5, 10 ],
 			"faces": {
@@ -4188,7 +4070,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7.25, 10.25 ],
 			"to": [ 8, 7.5, 10.75 ],
 			"faces": {
@@ -4198,7 +4080,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 5 ],
 			"to": [ 8, 7.75, 5.25 ],
 			"faces": {
@@ -4206,7 +4088,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 5.5 ],
 			"to": [ 8, 8, 5.75 ],
 			"faces": {
@@ -4217,7 +4099,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 5.75 ],
 			"to": [ 8, 7.75, 6 ],
 			"faces": {
@@ -4225,7 +4107,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 6.25 ],
 			"to": [ 8, 7.75, 6.5 ],
 			"faces": {
@@ -4234,7 +4116,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 9.5 ],
 			"to": [ 8, 7.75, 9.75 ],
 			"faces": {
@@ -4243,7 +4125,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 9.75 ],
 			"to": [ 8, 7.75, 10 ],
 			"faces": {
@@ -4251,7 +4133,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 10 ],
 			"to": [ 8, 7.75, 10.25 ],
 			"faces": {
@@ -4259,7 +4141,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 10.25 ],
 			"to": [ 8, 7.75, 11 ],
 			"faces": {
@@ -4270,7 +4152,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-F0F0F0",
+			"__comment": "Element",
 			"from": [ 7.75, 7.5, 14.5 ],
 			"to": [ 8, 7.75, 15 ],
 			"faces": {
@@ -4278,7 +4160,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 1.5 ],
 			"to": [ 8, 8, 1.75 ],
 			"faces": {
@@ -4286,7 +4168,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 5 ],
 			"to": [ 8, 8, 5.25 ],
 			"faces": {
@@ -4295,7 +4177,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 5.25 ],
 			"to": [ 8, 8, 5.5 ],
 			"faces": {
@@ -4304,7 +4186,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 5.75 ],
 			"to": [ 8, 8, 6 ],
 			"faces": {
@@ -4313,7 +4195,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 6 ],
 			"to": [ 8, 8, 6.25 ],
 			"faces": {
@@ -4322,7 +4204,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 9.5 ],
 			"to": [ 8, 8, 9.75 ],
 			"faces": {
@@ -4332,7 +4214,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 9.75 ],
 			"to": [ 8, 8, 10.25 ],
 			"faces": {
@@ -4343,7 +4225,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 10.25 ],
 			"to": [ 8, 8, 10.5 ],
 			"faces": {
@@ -4352,7 +4234,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 10.5 ],
 			"to": [ 8, 8, 10.75 ],
 			"faces": {
@@ -4361,7 +4243,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 10.75 ],
 			"to": [ 8, 8, 11 ],
 			"faces": {
@@ -4370,7 +4252,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 12 ],
 			"to": [ 8, 8, 12.25 ],
 			"faces": {
@@ -4378,7 +4260,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 7.75, 14.25 ],
 			"to": [ 8, 8, 14.5 ],
 			"faces": {
@@ -4386,7 +4268,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 8, 15 ],
 			"to": [ 8, 8.25, 15.25 ],
 			"faces": {
@@ -4394,7 +4276,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 8.25, 2 ],
 			"to": [ 8, 8.5, 2.25 ],
 			"faces": {
@@ -4402,7 +4284,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 8.25, 3.25 ],
 			"to": [ 8, 8.5, 3.5 ],
 			"faces": {
@@ -4410,7 +4292,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 8.25, 12.5 ],
 			"to": [ 8, 8.5, 12.75 ],
 			"faces": {
@@ -4418,7 +4300,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 8.25, 13.75 ],
 			"to": [ 8, 8.5, 14 ],
 			"faces": {
@@ -4426,7 +4308,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 9, 3.5 ],
 			"to": [ 8, 9.25, 3.75 ],
 			"faces": {
@@ -4434,7 +4316,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-B06EAB",
+			"__comment": "Element",
 			"from": [ 7.75, 9, 14 ],
 			"to": [ 8, 9.25, 14.25 ],
 			"faces": {
@@ -4442,7 +4324,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 8, 2, 3.5 ],
 			"to": [ 8.5, 6, 4 ],
 			"faces": {
@@ -4454,7 +4336,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 8, 2, 12 ],
 			"to": [ 8.5, 6, 12.5 ],
 			"faces": {
@@ -4466,7 +4348,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 6, 3.5 ],
 			"to": [ 8.25, 6.25, 4 ],
 			"faces": {
@@ -4476,7 +4358,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6, 4 ],
 			"to": [ 8.25, 6.5, 4.25 ],
 			"faces": {
@@ -4487,7 +4369,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6, 4.25 ],
 			"to": [ 8.5, 6.25, 4.5 ],
 			"faces": {
@@ -4499,7 +4381,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6, 4.5 ],
 			"to": [ 8.25, 6.25, 4.75 ],
 			"faces": {
@@ -4507,7 +4389,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6, 4.75 ],
 			"to": [ 8.25, 6.5, 5 ],
 			"faces": {
@@ -4519,7 +4401,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 6, 5 ],
 			"to": [ 8.25, 6.25, 5.25 ],
 			"faces": {
@@ -4527,7 +4409,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6, 5.25 ],
 			"to": [ 8.25, 6.25, 5.5 ],
 			"faces": {
@@ -4535,7 +4417,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6, 5.5 ],
 			"to": [ 8.25, 6.5, 5.75 ],
 			"faces": {
@@ -4546,7 +4428,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6, 5.75 ],
 			"to": [ 8.25, 6.25, 6 ],
 			"faces": {
@@ -4554,7 +4436,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-A04679",
+			"__comment": "Element",
 			"from": [ 8, 6, 6 ],
 			"to": [ 8.5, 6.5, 10 ],
 			"faces": {
@@ -4566,7 +4448,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6, 10 ],
 			"to": [ 8.25, 6.25, 10.25 ],
 			"faces": {
@@ -4574,7 +4456,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6, 10.25 ],
 			"to": [ 8.25, 6.5, 10.5 ],
 			"faces": {
@@ -4585,7 +4467,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6, 10.5 ],
 			"to": [ 8.25, 6.25, 10.75 ],
 			"faces": {
@@ -4593,7 +4475,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6, 10.75 ],
 			"to": [ 8.75, 6.25, 11 ],
 			"faces": {
@@ -4604,7 +4486,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6, 11 ],
 			"to": [ 8.25, 6.25, 11.25 ],
 			"faces": {
@@ -4612,7 +4494,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 6, 11.25 ],
 			"to": [ 8.25, 6.25, 11.5 ],
 			"faces": {
@@ -4620,7 +4502,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6, 11.5 ],
 			"to": [ 8.25, 6.25, 11.75 ],
 			"faces": {
@@ -4628,7 +4510,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6, 11.75 ],
 			"to": [ 8.5, 6.25, 12 ],
 			"faces": {
@@ -4638,7 +4520,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6, 12.25 ],
 			"to": [ 8.25, 6.5, 12.5 ],
 			"faces": {
@@ -4648,7 +4530,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 3.5 ],
 			"to": [ 8.25, 6.5, 3.75 ],
 			"faces": {
@@ -4656,7 +4538,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 3.75 ],
 			"to": [ 8.5, 6.5, 4 ],
 			"faces": {
@@ -4667,14 +4549,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 8, 6.25, 4.25 ],
-			"to": [ 8.25, 6.5, 4.5 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 4.5 ],
 			"to": [ 8.25, 6.5, 4.75 ],
 			"faces": {
@@ -4682,7 +4557,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 5 ],
 			"to": [ 8.5, 6.5, 5.25 ],
 			"faces": {
@@ -4693,7 +4568,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 5.25 ],
 			"to": [ 8.25, 6.5, 5.5 ],
 			"faces": {
@@ -4701,7 +4576,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 5.75 ],
 			"to": [ 8.5, 6.5, 6 ],
 			"faces": {
@@ -4711,14 +4586,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
-			"from": [ 8, 6.25, 10 ],
-			"to": [ 8.25, 6.5, 10.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 10.5 ],
 			"to": [ 8.75, 6.5, 10.75 ],
 			"faces": {
@@ -4729,7 +4597,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 10.75 ],
 			"to": [ 8.25, 6.5, 11 ],
 			"faces": {
@@ -4737,7 +4605,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 11 ],
 			"to": [ 8.25, 6.5, 11.25 ],
 			"faces": {
@@ -4745,7 +4613,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 11.25 ],
 			"to": [ 8.25, 6.5, 11.5 ],
 			"faces": {
@@ -4753,7 +4621,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 11.5 ],
 			"to": [ 8.5, 6.5, 11.75 ],
 			"faces": {
@@ -4764,7 +4632,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.25, 11.75 ],
 			"to": [ 8.5, 6.5, 12 ],
 			"faces": {
@@ -4774,14 +4642,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
-			"from": [ 8, 6.25, 12 ],
-			"to": [ 8.25, 6.5, 12.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 3.5 ],
 			"to": [ 8.25, 6.75, 3.75 ],
 			"faces": {
@@ -4789,14 +4650,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 8, 6.5, 4 ],
-			"to": [ 8.25, 6.75, 4.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 4.25 ],
 			"to": [ 8.25, 6.75, 4.5 ],
 			"faces": {
@@ -4804,14 +4658,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
-			"from": [ 8, 6.5, 5.75 ],
-			"to": [ 8.25, 6.75, 6 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 6 ],
 			"to": [ 8.25, 6.75, 6.5 ],
 			"faces": {
@@ -4821,7 +4668,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 6.5 ],
 			"to": [ 8.25, 6.75, 6.75 ],
 			"faces": {
@@ -4829,7 +4676,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 6.75 ],
 			"to": [ 8.5, 6.75, 7 ],
 			"faces": {
@@ -4841,7 +4688,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 7 ],
 			"to": [ 8.25, 6.75, 7.25 ],
 			"faces": {
@@ -4849,7 +4696,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 7.25 ],
 			"to": [ 8.5, 6.75, 7.5 ],
 			"faces": {
@@ -4861,7 +4708,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 8.5 ],
 			"to": [ 8.25, 7, 8.75 ],
 			"faces": {
@@ -4873,7 +4720,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 8.75 ],
 			"to": [ 8.25, 6.75, 9 ],
 			"faces": {
@@ -4881,7 +4728,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 9 ],
 			"to": [ 8.25, 6.75, 9.25 ],
 			"faces": {
@@ -4889,7 +4736,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 9.25 ],
 			"to": [ 8.25, 6.75, 9.5 ],
 			"faces": {
@@ -4897,7 +4744,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 9.5 ],
 			"to": [ 8.25, 6.75, 10 ],
 			"faces": {
@@ -4907,7 +4754,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 10.25 ],
 			"to": [ 8.25, 6.75, 10.5 ],
 			"faces": {
@@ -4915,7 +4762,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 11.5 ],
 			"to": [ 8.25, 6.75, 11.75 ],
 			"faces": {
@@ -4923,14 +4770,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
-			"from": [ 8, 6.5, 11.75 ],
-			"to": [ 8.25, 6.75, 12 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 6.5, 12.25 ],
 			"to": [ 8.25, 6.75, 12.5 ],
 			"faces": {
@@ -4938,7 +4778,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 3.5 ],
 			"to": [ 8.25, 7, 4.25 ],
 			"faces": {
@@ -4950,7 +4790,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 4.25 ],
 			"to": [ 8.25, 7, 4.5 ],
 			"faces": {
@@ -4958,7 +4798,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 5.5 ],
 			"to": [ 8.25, 7, 5.75 ],
 			"faces": {
@@ -4967,7 +4807,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 5.75 ],
 			"to": [ 8.25, 7, 6 ],
 			"faces": {
@@ -4975,7 +4815,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 6 ],
 			"to": [ 8.25, 7, 6.25 ],
 			"faces": {
@@ -4984,7 +4824,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 6.25 ],
 			"to": [ 8.25, 7, 6.75 ],
 			"faces": {
@@ -4995,7 +4835,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 6.75 ],
 			"to": [ 8.25, 7, 7 ],
 			"faces": {
@@ -5004,7 +4844,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 7 ],
 			"to": [ 8.25, 7, 7.25 ],
 			"faces": {
@@ -5013,7 +4853,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 7.25 ],
 			"to": [ 8.25, 7, 7.5 ],
 			"faces": {
@@ -5023,7 +4863,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 8.75 ],
 			"to": [ 8.25, 7, 9.5 ],
 			"faces": {
@@ -5034,7 +4874,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 9.5 ],
 			"to": [ 8.25, 7, 9.75 ],
 			"faces": {
@@ -5043,7 +4883,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 9.75 ],
 			"to": [ 8.25, 7, 10 ],
 			"faces": {
@@ -5052,7 +4892,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 10 ],
 			"to": [ 8.5, 7, 10.25 ],
 			"faces": {
@@ -5063,7 +4903,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 10.25 ],
 			"to": [ 8.25, 7, 10.5 ],
 			"faces": {
@@ -5072,7 +4912,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 11.5 ],
 			"to": [ 8.25, 7, 11.75 ],
 			"faces": {
@@ -5080,21 +4920,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
-			"from": [ 8, 6.75, 11.75 ],
-			"to": [ 8.25, 7, 12 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
-			"from": [ 8, 6.75, 12 ],
-			"to": [ 8.25, 7, 12.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 6.75, 12.25 ],
 			"to": [ 8.25, 7, 12.5 ],
 			"faces": {
@@ -5102,7 +4928,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 7, 3.5 ],
 			"to": [ 8.5, 7.25, 3.75 ],
 			"faces": {
@@ -5114,28 +4940,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 8, 7, 3.75 ],
-			"to": [ 8.25, 7.25, 4 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
-			"from": [ 8, 7, 4 ],
-			"to": [ 8.25, 7.25, 4.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-83B4BB",
-			"from": [ 8, 7, 4.25 ],
-			"to": [ 8.25, 7.25, 4.5 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 7, 4.5 ],
 			"to": [ 8.5, 7.25, 4.75 ],
 			"faces": {
@@ -5147,7 +4952,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 7, 4.75 ],
 			"to": [ 8.25, 7.25, 5 ],
 			"faces": {
@@ -5156,7 +4961,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-6A9197",
+			"__comment": "Element",
 			"from": [ 8, 7, 7.5 ],
 			"to": [ 8.5, 7.5, 8.5 ],
 			"faces": {
@@ -5168,7 +4973,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 7, 11 ],
 			"to": [ 8.25, 7.25, 11.25 ],
 			"faces": {
@@ -5177,7 +4982,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 7, 11.25 ],
 			"to": [ 8.5, 7.25, 11.5 ],
 			"faces": {
@@ -5187,7 +4992,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 7, 11.5 ],
 			"to": [ 8.5, 7.25, 11.75 ],
 			"faces": {
@@ -5197,14 +5002,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 8, 7, 11.75 ],
-			"to": [ 8.25, 7.25, 12 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 7, 12.25 ],
 			"to": [ 8.25, 7.25, 12.5 ],
 			"faces": {
@@ -5212,7 +5010,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 7.25, 3.5 ],
 			"to": [ 8.25, 7.5, 4 ],
 			"faces": {
@@ -5224,14 +5022,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 8, 7.25, 4 ],
-			"to": [ 8.25, 7.5, 4.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 7.25, 4.25 ],
 			"to": [ 8.25, 7.5, 4.75 ],
 			"faces": {
@@ -5242,7 +5033,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 7.25, 4.75 ],
 			"to": [ 8.25, 7.75, 5 ],
 			"faces": {
@@ -5252,7 +5043,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 7.25, 11 ],
 			"to": [ 8.25, 7.5, 11.25 ],
 			"faces": {
@@ -5260,7 +5051,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 7.25, 11.25 ],
 			"to": [ 8.5, 7.5, 11.5 ],
 			"faces": {
@@ -5270,7 +5061,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 7.25, 11.5 ],
 			"to": [ 8.5, 7.5, 11.75 ],
 			"faces": {
@@ -5280,7 +5071,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 7.25, 11.75 ],
 			"to": [ 8.25, 7.5, 12.25 ],
 			"faces": {
@@ -5291,7 +5082,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 7.25, 12.25 ],
 			"to": [ 8.5, 7.5, 12.5 ],
 			"faces": {
@@ -5303,7 +5094,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 3.5 ],
 			"to": [ 8.25, 8, 3.75 ],
 			"faces": {
@@ -5314,7 +5105,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 3.75 ],
 			"to": [ 8.5, 7.75, 4 ],
 			"faces": {
@@ -5325,7 +5116,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 4 ],
 			"to": [ 8.25, 8, 4.25 ],
 			"faces": {
@@ -5336,14 +5127,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
-			"from": [ 8, 7.5, 4.25 ],
-			"to": [ 8.25, 7.75, 4.5 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 4.5 ],
 			"to": [ 8.25, 8, 4.75 ],
 			"faces": {
@@ -5353,7 +5137,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 6.5 ],
 			"to": [ 8.5, 8, 7 ],
 			"faces": {
@@ -5366,7 +5150,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 9 ],
 			"to": [ 8.5, 8, 9.5 ],
 			"faces": {
@@ -5379,7 +5163,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 11 ],
 			"to": [ 8.25, 8, 11.25 ],
 			"faces": {
@@ -5389,14 +5173,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
-			"from": [ 8, 7.5, 11.25 ],
-			"to": [ 8.25, 7.75, 11.5 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 11.5 ],
 			"to": [ 8.25, 8, 11.75 ],
 			"faces": {
@@ -5406,7 +5183,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 7.5, 11.75 ],
 			"to": [ 8.25, 7.75, 12 ],
 			"faces": {
@@ -5414,7 +5191,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 7.75, 3.75 ],
 			"to": [ 8.25, 8, 4 ],
 			"faces": {
@@ -5422,7 +5199,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 7.75, 4.25 ],
 			"to": [ 8.25, 8, 4.5 ],
 			"faces": {
@@ -5430,7 +5207,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 7.75, 4.75 ],
 			"to": [ 8.25, 8, 5 ],
 			"faces": {
@@ -5438,7 +5215,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 7.75, 11.25 ],
 			"to": [ 8.5, 8, 11.5 ],
 			"faces": {
@@ -5450,7 +5227,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 7.75, 11.75 ],
 			"to": [ 8.25, 8, 12 ],
 			"faces": {
@@ -5458,7 +5235,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 8, 4.5 ],
 			"to": [ 8.25, 8.25, 4.75 ],
 			"faces": {
@@ -5466,7 +5243,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 8, 5 ],
 			"to": [ 8.5, 8.25, 5.25 ],
 			"faces": {
@@ -5479,7 +5256,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 8, 5.25 ],
 			"to": [ 8.25, 8.5, 5.5 ],
 			"faces": {
@@ -5492,7 +5269,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 8, 5.5 ],
 			"to": [ 8.25, 8.25, 5.75 ],
 			"faces": {
@@ -5501,7 +5278,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 8, 5.75 ],
 			"to": [ 8.25, 8.25, 6.25 ],
 			"faces": {
@@ -5512,7 +5289,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 8, 6.25 ],
 			"to": [ 8.25, 8.25, 6.5 ],
 			"faces": {
@@ -5522,7 +5299,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 8, 9.5 ],
 			"to": [ 8.25, 8.25, 9.75 ],
 			"faces": {
@@ -5532,7 +5309,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 8, 9.75 ],
 			"to": [ 8.25, 8.25, 10 ],
 			"faces": {
@@ -5541,7 +5318,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 8, 10 ],
 			"to": [ 8.25, 8.25, 10.25 ],
 			"faces": {
@@ -5550,7 +5327,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8, 8, 10.25 ],
 			"to": [ 8.25, 8.25, 10.5 ],
 			"faces": {
@@ -5559,7 +5336,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 8, 10.5 ],
 			"to": [ 8.25, 8.5, 10.75 ],
 			"faces": {
@@ -5572,7 +5349,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 8, 10.75 ],
 			"to": [ 8.25, 8.25, 11 ],
 			"faces": {
@@ -5581,7 +5358,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 8, 11.5 ],
 			"to": [ 8.5, 8.25, 11.75 ],
 			"faces": {
@@ -5592,7 +5369,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 8, 11.75 ],
 			"to": [ 8.25, 8.25, 12 ],
 			"faces": {
@@ -5600,7 +5377,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 4.5 ],
 			"to": [ 8.5, 8.5, 4.75 ],
 			"faces": {
@@ -5611,7 +5388,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 4.75 ],
 			"to": [ 8.5, 8.5, 5 ],
 			"faces": {
@@ -5622,7 +5399,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 5 ],
 			"to": [ 8.25, 8.5, 5.25 ],
 			"faces": {
@@ -5631,7 +5408,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 5.5 ],
 			"to": [ 8.25, 8.5, 5.75 ],
 			"faces": {
@@ -5640,7 +5417,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 5.75 ],
 			"to": [ 8.25, 8.5, 6 ],
 			"faces": {
@@ -5649,7 +5426,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 6 ],
 			"to": [ 8.25, 8.5, 6.5 ],
 			"faces": {
@@ -5660,7 +5437,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 9.5 ],
 			"to": [ 8.25, 8.5, 9.75 ],
 			"faces": {
@@ -5670,7 +5447,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 9.75 ],
 			"to": [ 8.25, 8.5, 10 ],
 			"faces": {
@@ -5679,7 +5456,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 10 ],
 			"to": [ 8.5, 8.5, 10.25 ],
 			"faces": {
@@ -5692,7 +5469,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 10.25 ],
 			"to": [ 8.25, 8.5, 10.5 ],
 			"faces": {
@@ -5701,7 +5478,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 10.75 ],
 			"to": [ 8.25, 8.5, 11 ],
 			"faces": {
@@ -5710,7 +5487,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 11 ],
 			"to": [ 8.25, 8.5, 11.25 ],
 			"faces": {
@@ -5718,7 +5495,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8, 8.25, 11.25 ],
 			"to": [ 8.25, 8.5, 12 ],
 			"faces": {
@@ -5730,7 +5507,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 3.5 ],
 			"to": [ 8.5, 6.25, 3.75 ],
 			"faces": {
@@ -5738,7 +5515,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 3.75 ],
 			"to": [ 8.75, 6.25, 4 ],
 			"faces": {
@@ -5749,7 +5526,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 4 ],
 			"to": [ 8.5, 6.25, 4.25 ],
 			"faces": {
@@ -5758,7 +5535,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 4.5 ],
 			"to": [ 8.5, 6.25, 4.75 ],
 			"faces": {
@@ -5766,7 +5543,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 4.75 ],
 			"to": [ 8.5, 6.25, 5 ],
 			"faces": {
@@ -5774,7 +5551,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 5 ],
 			"to": [ 8.75, 6.25, 5.25 ],
 			"faces": {
@@ -5785,7 +5562,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 5.25 ],
 			"to": [ 8.5, 6.25, 5.5 ],
 			"faces": {
@@ -5793,7 +5570,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 5.5 ],
 			"to": [ 8.5, 6.25, 5.75 ],
 			"faces": {
@@ -5801,7 +5578,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 5.75 ],
 			"to": [ 8.5, 6.25, 6 ],
 			"faces": {
@@ -5809,7 +5586,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 10 ],
 			"to": [ 8.5, 6.25, 10.5 ],
 			"faces": {
@@ -5820,7 +5597,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 10.5 ],
 			"to": [ 8.5, 6.25, 10.75 ],
 			"faces": {
@@ -5828,7 +5605,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 11 ],
 			"to": [ 8.5, 6.25, 11.25 ],
 			"faces": {
@@ -5836,7 +5613,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 11.25 ],
 			"to": [ 8.5, 6.25, 11.5 ],
 			"faces": {
@@ -5844,7 +5621,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 11.5 ],
 			"to": [ 8.5, 6.25, 11.75 ],
 			"faces": {
@@ -5853,7 +5630,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6, 12.25 ],
 			"to": [ 8.5, 6.25, 12.5 ],
 			"faces": {
@@ -5861,7 +5638,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 3.5 ],
 			"to": [ 8.5, 6.75, 3.75 ],
 			"faces": {
@@ -5872,7 +5649,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 4 ],
 			"to": [ 8.5, 6.5, 4.25 ],
 			"faces": {
@@ -5880,7 +5657,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 4.25 ],
 			"to": [ 8.5, 6.5, 4.5 ],
 			"faces": {
@@ -5888,7 +5665,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 4.5 ],
 			"to": [ 8.5, 6.5, 4.75 ],
 			"faces": {
@@ -5896,7 +5673,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 4.75 ],
 			"to": [ 8.5, 6.5, 5 ],
 			"faces": {
@@ -5904,7 +5681,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 5.25 ],
 			"to": [ 8.5, 6.5, 5.5 ],
 			"faces": {
@@ -5912,7 +5689,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 5.5 ],
 			"to": [ 9, 6.5, 5.75 ],
 			"faces": {
@@ -5924,14 +5701,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
-			"from": [ 8.25, 6.25, 10 ],
-			"to": [ 8.5, 6.5, 10.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 10.25 ],
 			"to": [ 8.5, 6.75, 10.5 ],
 			"faces": {
@@ -5942,7 +5712,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 10.75 ],
 			"to": [ 8.5, 6.5, 11 ],
 			"faces": {
@@ -5950,7 +5720,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 11 ],
 			"to": [ 8.5, 6.5, 11.25 ],
 			"faces": {
@@ -5958,7 +5728,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 11.25 ],
 			"to": [ 8.75, 6.5, 11.5 ],
 			"faces": {
@@ -5969,14 +5739,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 8.25, 6.25, 12 ],
-			"to": [ 8.5, 6.5, 12.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 6.25, 12.25 ],
 			"to": [ 8.5, 6.5, 12.5 ],
 			"faces": {
@@ -5984,7 +5747,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 3.75 ],
 			"to": [ 8.5, 6.75, 4 ],
 			"faces": {
@@ -5992,7 +5755,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 4 ],
 			"to": [ 8.5, 6.75, 4.25 ],
 			"faces": {
@@ -6000,7 +5763,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 4.25 ],
 			"to": [ 8.5, 6.75, 4.5 ],
 			"faces": {
@@ -6009,7 +5772,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 5.5 ],
 			"to": [ 8.5, 7, 5.75 ],
 			"faces": {
@@ -6021,7 +5784,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 5.75 ],
 			"to": [ 8.5, 6.75, 6 ],
 			"faces": {
@@ -6029,7 +5792,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 6 ],
 			"to": [ 8.5, 6.75, 6.25 ],
 			"faces": {
@@ -6037,7 +5800,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 6.25 ],
 			"to": [ 8.5, 6.75, 6.5 ],
 			"faces": {
@@ -6045,7 +5808,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 6.5 ],
 			"to": [ 8.5, 6.75, 6.75 ],
 			"faces": {
@@ -6053,7 +5816,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 7 ],
 			"to": [ 8.5, 7, 7.25 ],
 			"faces": {
@@ -6065,7 +5828,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 8.5 ],
 			"to": [ 8.5, 6.75, 8.75 ],
 			"faces": {
@@ -6074,7 +5837,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 8.75 ],
 			"to": [ 8.5, 6.75, 9 ],
 			"faces": {
@@ -6082,7 +5845,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 9 ],
 			"to": [ 8.5, 7, 9.25 ],
 			"faces": {
@@ -6094,7 +5857,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 9.25 ],
 			"to": [ 8.5, 6.75, 9.5 ],
 			"faces": {
@@ -6102,7 +5865,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 9.5 ],
 			"to": [ 8.5, 6.75, 9.75 ],
 			"faces": {
@@ -6110,7 +5873,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 9.75 ],
 			"to": [ 8.5, 6.75, 10 ],
 			"faces": {
@@ -6118,7 +5881,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 11.5 ],
 			"to": [ 8.5, 6.75, 11.75 ],
 			"faces": {
@@ -6127,7 +5890,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 11.75 ],
 			"to": [ 8.5, 6.75, 12 ],
 			"faces": {
@@ -6135,7 +5898,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6.5, 12 ],
 			"to": [ 8.5, 7, 12.5 ],
 			"faces": {
@@ -6147,7 +5910,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 3.5 ],
 			"to": [ 8.5, 7, 3.75 ],
 			"faces": {
@@ -6156,7 +5919,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 3.75 ],
 			"to": [ 8.5, 7, 4 ],
 			"faces": {
@@ -6164,7 +5927,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 4 ],
 			"to": [ 8.5, 7, 4.25 ],
 			"faces": {
@@ -6172,7 +5935,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 4.25 ],
 			"to": [ 8.5, 7, 4.5 ],
 			"faces": {
@@ -6181,7 +5944,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 5.75 ],
 			"to": [ 8.5, 7, 6.5 ],
 			"faces": {
@@ -6192,7 +5955,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 6.5 ],
 			"to": [ 8.5, 7, 6.75 ],
 			"faces": {
@@ -6201,7 +5964,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 6.75 ],
 			"to": [ 8.5, 7, 7 ],
 			"faces": {
@@ -6210,7 +5973,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 7.25 ],
 			"to": [ 8.5, 7, 7.5 ],
 			"faces": {
@@ -6220,7 +5983,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 8.5 ],
 			"to": [ 8.5, 7, 9 ],
 			"faces": {
@@ -6232,7 +5995,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 9.25 ],
 			"to": [ 8.5, 7, 9.5 ],
 			"faces": {
@@ -6241,7 +6004,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 9.5 ],
 			"to": [ 8.5, 7, 9.75 ],
 			"faces": {
@@ -6250,7 +6013,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 9.75 ],
 			"to": [ 8.5, 7, 10 ],
 			"faces": {
@@ -6259,7 +6022,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 10.25 ],
 			"to": [ 8.5, 7, 10.5 ],
 			"faces": {
@@ -6269,7 +6032,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 11.5 ],
 			"to": [ 8.5, 7, 11.75 ],
 			"faces": {
@@ -6278,7 +6041,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 6.75, 11.75 ],
 			"to": [ 8.5, 7.75, 12 ],
 			"faces": {
@@ -6289,7 +6052,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 7, 3.75 ],
 			"to": [ 8.5, 7.25, 4 ],
 			"faces": {
@@ -6297,7 +6060,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 7, 4 ],
 			"to": [ 8.5, 7.25, 4.25 ],
 			"faces": {
@@ -6305,7 +6068,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 7, 4.25 ],
 			"to": [ 8.5, 7.25, 4.5 ],
 			"faces": {
@@ -6313,7 +6076,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 7, 4.75 ],
 			"to": [ 8.5, 7.5, 5 ],
 			"faces": {
@@ -6325,7 +6088,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 7, 11 ],
 			"to": [ 8.5, 7.25, 11.25 ],
 			"faces": {
@@ -6335,7 +6098,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 7, 12 ],
 			"to": [ 8.5, 7.25, 12.5 ],
 			"faces": {
@@ -6346,7 +6109,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 7.25, 3.5 ],
 			"to": [ 8.5, 7.75, 3.75 ],
 			"faces": {
@@ -6357,7 +6120,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 7.25, 3.75 ],
 			"to": [ 8.5, 7.5, 4 ],
 			"faces": {
@@ -6365,7 +6128,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 7.25, 4 ],
 			"to": [ 8.5, 7.5, 4.25 ],
 			"faces": {
@@ -6373,7 +6136,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 7.25, 4.25 ],
 			"to": [ 8.5, 7.5, 4.5 ],
 			"faces": {
@@ -6381,7 +6144,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 7.25, 4.5 ],
 			"to": [ 8.5, 7.5, 4.75 ],
 			"faces": {
@@ -6389,7 +6152,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 7.25, 11 ],
 			"to": [ 8.5, 7.5, 11.25 ],
 			"faces": {
@@ -6398,7 +6161,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 7.25, 12 ],
 			"to": [ 8.5, 7.5, 12.25 ],
 			"faces": {
@@ -6407,7 +6170,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 7.5, 4 ],
 			"to": [ 8.5, 7.75, 4.25 ],
 			"faces": {
@@ -6415,7 +6178,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 7.5, 4.25 ],
 			"to": [ 8.5, 7.75, 4.5 ],
 			"faces": {
@@ -6423,7 +6186,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 7.5, 4.5 ],
 			"to": [ 8.5, 7.75, 4.75 ],
 			"faces": {
@@ -6431,7 +6194,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 7.5, 4.75 ],
 			"to": [ 8.5, 8, 5 ],
 			"faces": {
@@ -6442,7 +6205,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 7.5, 11 ],
 			"to": [ 8.5, 7.75, 11.25 ],
 			"faces": {
@@ -6451,7 +6214,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 7.5, 11.25 ],
 			"to": [ 8.5, 7.75, 11.5 ],
 			"faces": {
@@ -6459,7 +6222,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 7.5, 11.5 ],
 			"to": [ 8.5, 7.75, 11.75 ],
 			"faces": {
@@ -6467,7 +6230,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 7.75, 3.5 ],
 			"to": [ 8.5, 8, 3.75 ],
 			"faces": {
@@ -6476,7 +6239,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 7.75, 3.75 ],
 			"to": [ 8.5, 8, 4.25 ],
 			"faces": {
@@ -6487,7 +6250,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 7.75, 4.25 ],
 			"to": [ 8.5, 8, 4.5 ],
 			"faces": {
@@ -6496,7 +6259,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 7.75, 4.5 ],
 			"to": [ 8.5, 8, 4.75 ],
 			"faces": {
@@ -6504,7 +6267,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 7.75, 11 ],
 			"to": [ 8.5, 8.25, 11.25 ],
 			"faces": {
@@ -6515,7 +6278,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 7.75, 11.5 ],
 			"to": [ 8.5, 8, 11.75 ],
 			"faces": {
@@ -6523,7 +6286,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 7.75, 11.75 ],
 			"to": [ 8.5, 8.25, 12 ],
 			"faces": {
@@ -6534,7 +6297,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 4.5 ],
 			"to": [ 8.5, 8.25, 4.75 ],
 			"faces": {
@@ -6543,7 +6306,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 4.75 ],
 			"to": [ 8.5, 8.25, 5 ],
 			"faces": {
@@ -6551,7 +6314,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 5.25 ],
 			"to": [ 8.5, 8.25, 5.5 ],
 			"faces": {
@@ -6560,7 +6323,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 5.5 ],
 			"to": [ 8.5, 8.5, 5.75 ],
 			"faces": {
@@ -6573,7 +6336,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 5.75 ],
 			"to": [ 8.5, 8.25, 6 ],
 			"faces": {
@@ -6582,7 +6345,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 6 ],
 			"to": [ 8.5, 8.25, 6.25 ],
 			"faces": {
@@ -6591,7 +6354,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 6.25 ],
 			"to": [ 8.5, 8.25, 6.5 ],
 			"faces": {
@@ -6601,7 +6364,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 9.5 ],
 			"to": [ 8.5, 8.25, 9.75 ],
 			"faces": {
@@ -6611,7 +6374,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 9.75 ],
 			"to": [ 8.5, 8.25, 10.25 ],
 			"faces": {
@@ -6622,7 +6385,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 10.25 ],
 			"to": [ 8.5, 8.25, 10.75 ],
 			"faces": {
@@ -6633,7 +6396,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 10.75 ],
 			"to": [ 8.5, 8.25, 11 ],
 			"faces": {
@@ -6642,7 +6405,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 8, 11.25 ],
 			"to": [ 8.5, 8.25, 11.5 ],
 			"faces": {
@@ -6650,7 +6413,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 5 ],
 			"to": [ 8.5, 8.5, 5.25 ],
 			"faces": {
@@ -6659,7 +6422,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 5.25 ],
 			"to": [ 8.5, 8.5, 5.5 ],
 			"faces": {
@@ -6668,7 +6431,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 5.75 ],
 			"to": [ 8.5, 8.5, 6 ],
 			"faces": {
@@ -6677,7 +6440,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 6 ],
 			"to": [ 8.5, 8.5, 6.5 ],
 			"faces": {
@@ -6688,7 +6451,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 9.5 ],
 			"to": [ 8.5, 8.5, 9.75 ],
 			"faces": {
@@ -6698,7 +6461,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 9.75 ],
 			"to": [ 8.5, 8.5, 10 ],
 			"faces": {
@@ -6707,7 +6470,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 10.25 ],
 			"to": [ 8.5, 8.5, 10.5 ],
 			"faces": {
@@ -6716,7 +6479,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 10.5 ],
 			"to": [ 8.5, 8.5, 10.75 ],
 			"faces": {
@@ -6725,7 +6488,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 10.75 ],
 			"to": [ 8.5, 8.5, 11 ],
 			"faces": {
@@ -6734,7 +6497,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 11 ],
 			"to": [ 8.5, 8.5, 11.5 ],
 			"faces": {
@@ -6745,7 +6508,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.25, 8.25, 11.5 ],
 			"to": [ 8.5, 8.5, 12 ],
 			"faces": {
@@ -6756,7 +6519,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 5.5, 3.5 ],
 			"to": [ 8.75, 5.75, 3.75 ],
 			"faces": {
@@ -6765,7 +6528,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.5, 5.5, 3.75 ],
 			"to": [ 8.75, 5.75, 4 ],
 			"faces": {
@@ -6773,7 +6536,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.5, 5.5, 4 ],
 			"to": [ 8.75, 5.75, 4.25 ],
 			"faces": {
@@ -6782,7 +6545,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 5.5, 4.25 ],
 			"to": [ 8.75, 5.75, 4.5 ],
 			"faces": {
@@ -6792,7 +6555,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.5, 5.5, 11.5 ],
 			"to": [ 8.75, 5.75, 11.75 ],
 			"faces": {
@@ -6802,7 +6565,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.5, 5.5, 11.75 ],
 			"to": [ 8.75, 5.75, 12 ],
 			"faces": {
@@ -6811,7 +6574,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 5.5, 12 ],
 			"to": [ 8.75, 5.75, 12.25 ],
 			"faces": {
@@ -6819,7 +6582,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 5.5, 12.25 ],
 			"to": [ 8.75, 5.75, 12.5 ],
 			"faces": {
@@ -6828,7 +6591,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 5.75, 3.5 ],
 			"to": [ 8.75, 6, 3.75 ],
 			"faces": {
@@ -6836,7 +6599,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 5.75, 3.75 ],
 			"to": [ 9, 6, 4 ],
 			"faces": {
@@ -6848,7 +6611,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 5.75, 4 ],
 			"to": [ 8.75, 6, 4.25 ],
 			"faces": {
@@ -6857,7 +6620,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 5.75, 4.25 ],
 			"to": [ 9, 6, 4.5 ],
 			"faces": {
@@ -6870,7 +6633,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 5.75, 11.5 ],
 			"to": [ 8.75, 6, 11.75 ],
 			"faces": {
@@ -6880,7 +6643,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 5.75, 11.75 ],
 			"to": [ 8.75, 6, 12 ],
 			"faces": {
@@ -6889,14 +6652,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
-			"from": [ 8.5, 5.75, 12 ],
-			"to": [ 8.75, 6, 12.25 ],
-			"faces": {
-			}
-		},
-		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 5.75, 12.25 ],
 			"to": [ 8.75, 6, 12.5 ],
 			"faces": {
@@ -6904,7 +6660,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 3.5 ],
 			"to": [ 8.75, 6.25, 3.75 ],
 			"faces": {
@@ -6912,7 +6668,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 4.5 ],
 			"to": [ 8.75, 6.25, 4.75 ],
 			"faces": {
@@ -6921,7 +6677,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 4.75 ],
 			"to": [ 8.75, 6.25, 5 ],
 			"faces": {
@@ -6929,7 +6685,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 5.25 ],
 			"to": [ 8.75, 6.5, 5.5 ],
 			"faces": {
@@ -6942,7 +6698,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 5.5 ],
 			"to": [ 8.75, 6.25, 5.75 ],
 			"faces": {
@@ -6950,7 +6706,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 5.75 ],
 			"to": [ 8.75, 6.25, 6 ],
 			"faces": {
@@ -6959,7 +6715,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 10 ],
 			"to": [ 8.75, 6.25, 10.25 ],
 			"faces": {
@@ -6968,7 +6724,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 10.25 ],
 			"to": [ 8.75, 6.25, 10.5 ],
 			"faces": {
@@ -6976,7 +6732,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 10.5 ],
 			"to": [ 8.75, 6.25, 10.75 ],
 			"faces": {
@@ -6984,7 +6740,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 11 ],
 			"to": [ 9, 6.25, 11.25 ],
 			"faces": {
@@ -6995,7 +6751,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 11.25 ],
 			"to": [ 9, 6.25, 11.5 ],
 			"faces": {
@@ -7006,7 +6762,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 12 ],
 			"to": [ 8.75, 6.25, 12.25 ],
 			"faces": {
@@ -7014,7 +6770,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.5, 6, 12.25 ],
 			"to": [ 8.75, 6.25, 12.5 ],
 			"faces": {
@@ -7022,7 +6778,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 3.5 ],
 			"to": [ 8.75, 6.5, 3.75 ],
 			"faces": {
@@ -7031,7 +6787,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 3.75 ],
 			"to": [ 8.75, 6.5, 4 ],
 			"faces": {
@@ -7040,7 +6796,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 4.5 ],
 			"to": [ 9, 6.5, 4.75 ],
 			"faces": {
@@ -7051,7 +6807,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 4.75 ],
 			"to": [ 9, 6.5, 5 ],
 			"faces": {
@@ -7062,7 +6818,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 5 ],
 			"to": [ 8.75, 6.5, 5.25 ],
 			"faces": {
@@ -7070,7 +6826,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 5.75 ],
 			"to": [ 8.75, 6.5, 6 ],
 			"faces": {
@@ -7079,7 +6835,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 10 ],
 			"to": [ 8.75, 6.5, 10.25 ],
 			"faces": {
@@ -7088,7 +6844,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 10.25 ],
 			"to": [ 8.75, 6.5, 10.5 ],
 			"faces": {
@@ -7096,7 +6852,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 10.75 ],
 			"to": [ 8.75, 6.5, 11.25 ],
 			"faces": {
@@ -7106,7 +6862,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 12 ],
 			"to": [ 8.75, 6.5, 12.25 ],
 			"faces": {
@@ -7115,7 +6871,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 6.25, 12.25 ],
 			"to": [ 8.75, 6.5, 12.5 ],
 			"faces": {
@@ -7124,7 +6880,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 6.5, 3 ],
 			"to": [ 9, 7.5, 3.5 ],
 			"faces": {
@@ -7137,7 +6893,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 6.5, 12.5 ],
 			"to": [ 9, 7.5, 13 ],
 			"faces": {
@@ -7150,7 +6906,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 7.5, 3.5 ],
 			"to": [ 9, 7.75, 3.75 ],
 			"faces": {
@@ -7162,7 +6918,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 7.5, 3.75 ],
 			"to": [ 8.75, 8, 4 ],
 			"faces": {
@@ -7174,7 +6930,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 7.5, 12 ],
 			"to": [ 9, 7.75, 12.25 ],
 			"faces": {
@@ -7187,7 +6943,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 7.5, 12.25 ],
 			"to": [ 8.75, 8, 12.5 ],
 			"faces": {
@@ -7199,7 +6955,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 7.75, 3.5 ],
 			"to": [ 8.75, 8.5, 3.75 ],
 			"faces": {
@@ -7211,7 +6967,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.5, 7.75, 12 ],
 			"to": [ 8.75, 8.5, 12.25 ],
 			"faces": {
@@ -7223,7 +6979,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 8, 3.75 ],
 			"to": [ 8.75, 8.25, 4 ],
 			"faces": {
@@ -7231,7 +6987,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 8, 4 ],
 			"to": [ 8.75, 8.5, 4.25 ],
 			"faces": {
@@ -7243,7 +6999,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 8, 4.25 ],
 			"to": [ 9, 8.25, 4.5 ],
 			"faces": {
@@ -7256,7 +7012,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 8, 11.5 ],
 			"to": [ 8.75, 8.25, 11.75 ],
 			"faces": {
@@ -7265,7 +7021,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 8, 11.75 ],
 			"to": [ 8.75, 8.75, 12 ],
 			"faces": {
@@ -7277,7 +7033,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 8, 12.25 ],
 			"to": [ 9, 8.25, 12.5 ],
 			"faces": {
@@ -7290,7 +7046,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 8.25, 3.75 ],
 			"to": [ 9, 8.5, 4 ],
 			"faces": {
@@ -7303,7 +7059,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 8.25, 4.25 ],
 			"to": [ 8.75, 8.5, 4.5 ],
 			"faces": {
@@ -7312,7 +7068,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 8.25, 11.5 ],
 			"to": [ 8.75, 8.5, 11.75 ],
 			"faces": {
@@ -7320,7 +7076,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 8.25, 12.25 ],
 			"to": [ 8.75, 8.5, 12.5 ],
 			"faces": {
@@ -7330,7 +7086,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 4 ],
 			"to": [ 8.75, 8.75, 4.5 ],
 			"faces": {
@@ -7342,7 +7098,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 4.5 ],
 			"to": [ 9, 8.75, 4.75 ],
 			"faces": {
@@ -7354,7 +7110,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 4.75 ],
 			"to": [ 8.75, 8.75, 5.25 ],
 			"faces": {
@@ -7365,7 +7121,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 5.25 ],
 			"to": [ 8.75, 9, 5.5 ],
 			"faces": {
@@ -7377,7 +7133,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 10.5 ],
 			"to": [ 8.75, 8.75, 10.75 ],
 			"faces": {
@@ -7387,7 +7143,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 10.75 ],
 			"to": [ 8.75, 8.75, 11 ],
 			"faces": {
@@ -7396,7 +7152,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 11 ],
 			"to": [ 8.75, 8.75, 11.25 ],
 			"faces": {
@@ -7405,7 +7161,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 11.25 ],
 			"to": [ 8.75, 8.75, 11.5 ],
 			"faces": {
@@ -7414,7 +7170,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 8.5, 11.5 ],
 			"to": [ 8.75, 8.75, 11.75 ],
 			"faces": {
@@ -7422,7 +7178,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 4 ],
 			"to": [ 8.75, 9, 4.25 ],
 			"faces": {
@@ -7432,7 +7188,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 4.25 ],
 			"to": [ 9, 9, 4.5 ],
 			"faces": {
@@ -7444,7 +7200,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 4.5 ],
 			"to": [ 9, 9, 4.75 ],
 			"faces": {
@@ -7455,7 +7211,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 4.75 ],
 			"to": [ 8.75, 9, 5 ],
 			"faces": {
@@ -7464,7 +7220,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 5 ],
 			"to": [ 8.75, 9, 5.25 ],
 			"faces": {
@@ -7473,7 +7229,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 10.5 ],
 			"to": [ 8.75, 9, 11.25 ],
 			"faces": {
@@ -7485,7 +7241,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 11.25 ],
 			"to": [ 8.75, 9, 11.5 ],
 			"faces": {
@@ -7494,7 +7250,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 11.5 ],
 			"to": [ 8.75, 9, 11.75 ],
 			"faces": {
@@ -7503,7 +7259,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.5, 8.75, 11.75 ],
 			"to": [ 8.75, 9, 12 ],
 			"faces": {
@@ -7513,7 +7269,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 5.5, 3.5 ],
 			"to": [ 9, 5.75, 4 ],
 			"faces": {
@@ -7525,7 +7281,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 5.5, 4 ],
 			"to": [ 9, 5.75, 4.25 ],
 			"faces": {
@@ -7534,7 +7290,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 5.5, 4.25 ],
 			"to": [ 9, 5.75, 4.5 ],
 			"faces": {
@@ -7544,7 +7300,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 5.5, 11.5 ],
 			"to": [ 9, 5.75, 11.75 ],
 			"faces": {
@@ -7554,7 +7310,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 5.5, 11.75 ],
 			"to": [ 9, 5.75, 12 ],
 			"faces": {
@@ -7563,7 +7319,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 5.5, 12 ],
 			"to": [ 9, 5.75, 12.25 ],
 			"faces": {
@@ -7572,7 +7328,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 5.5, 12.25 ],
 			"to": [ 9, 5.75, 12.5 ],
 			"faces": {
@@ -7582,7 +7338,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 5.75, 3.5 ],
 			"to": [ 9, 6.25, 3.75 ],
 			"faces": {
@@ -7593,7 +7349,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 5.75, 4 ],
 			"to": [ 9, 6, 4.25 ],
 			"faces": {
@@ -7602,7 +7358,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 5.75, 11.5 ],
 			"to": [ 9, 6, 11.75 ],
 			"faces": {
@@ -7612,7 +7368,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 5.75, 11.75 ],
 			"to": [ 9, 6, 12 ],
 			"faces": {
@@ -7621,7 +7377,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 5.75, 12 ],
 			"to": [ 9, 6.5, 12.25 ],
 			"faces": {
@@ -7633,7 +7389,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 5.75, 12.25 ],
 			"to": [ 9, 6, 12.5 ],
 			"faces": {
@@ -7642,7 +7398,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 3.75 ],
 			"to": [ 9, 6.25, 4 ],
 			"faces": {
@@ -7651,7 +7407,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 4.5 ],
 			"to": [ 9, 6.25, 4.75 ],
 			"faces": {
@@ -7661,7 +7417,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 4.75 ],
 			"to": [ 9, 6.25, 5 ],
 			"faces": {
@@ -7670,7 +7426,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 5 ],
 			"to": [ 9, 6.25, 5.25 ],
 			"faces": {
@@ -7679,7 +7435,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 5.25 ],
 			"to": [ 9, 6.25, 5.5 ],
 			"faces": {
@@ -7688,7 +7444,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 5.5 ],
 			"to": [ 9, 6.25, 5.75 ],
 			"faces": {
@@ -7697,7 +7453,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 5.75 ],
 			"to": [ 9, 6.25, 6 ],
 			"faces": {
@@ -7707,7 +7463,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 10 ],
 			"to": [ 9, 6.25, 10.25 ],
 			"faces": {
@@ -7717,7 +7473,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 10.25 ],
 			"to": [ 9, 6.25, 10.5 ],
 			"faces": {
@@ -7726,7 +7482,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 10.5 ],
 			"to": [ 9, 6.25, 10.75 ],
 			"faces": {
@@ -7735,7 +7491,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 10.75 ],
 			"to": [ 9, 6.25, 11 ],
 			"faces": {
@@ -7744,7 +7500,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 6, 12.25 ],
 			"to": [ 9, 6.25, 12.5 ],
 			"faces": {
@@ -7753,7 +7509,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 3.5 ],
 			"to": [ 9, 6.5, 3.75 ],
 			"faces": {
@@ -7763,7 +7519,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 3.75 ],
 			"to": [ 9, 6.5, 4 ],
 			"faces": {
@@ -7773,7 +7529,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 5 ],
 			"to": [ 9, 6.5, 5.25 ],
 			"faces": {
@@ -7782,7 +7538,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 5.25 ],
 			"to": [ 9, 6.5, 5.5 ],
 			"faces": {
@@ -7791,7 +7547,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-82B3BA",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 5.75 ],
 			"to": [ 9, 6.5, 6 ],
 			"faces": {
@@ -7801,7 +7557,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 10 ],
 			"to": [ 9, 6.5, 10.25 ],
 			"faces": {
@@ -7811,7 +7567,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 10.25 ],
 			"to": [ 9, 6.5, 11.25 ],
 			"faces": {
@@ -7822,7 +7578,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 11.25 ],
 			"to": [ 9, 6.5, 11.5 ],
 			"faces": {
@@ -7832,7 +7588,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 6.25, 12.25 ],
 			"to": [ 9, 6.5, 12.5 ],
 			"faces": {
@@ -7842,7 +7598,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 7.5, 3.75 ],
 			"to": [ 9, 7.75, 4 ],
 			"faces": {
@@ -7852,7 +7608,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 7.5, 12.25 ],
 			"to": [ 9, 7.75, 12.5 ],
 			"faces": {
@@ -7862,7 +7618,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 7.75, 3.5 ],
 			"to": [ 9, 8.25, 3.75 ],
 			"faces": {
@@ -7872,7 +7628,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 7.75, 3.75 ],
 			"to": [ 9, 8, 4 ],
 			"faces": {
@@ -7881,7 +7637,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 7.75, 12 ],
 			"to": [ 9, 8, 12.5 ],
 			"faces": {
@@ -7894,7 +7650,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 8, 3.75 ],
 			"to": [ 9, 8.25, 4 ],
 			"faces": {
@@ -7902,7 +7658,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 8, 4 ],
 			"to": [ 9, 8.25, 4.25 ],
 			"faces": {
@@ -7911,7 +7667,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 8, 11.5 ],
 			"to": [ 9, 8.25, 11.75 ],
 			"faces": {
@@ -7921,7 +7677,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 8, 11.75 ],
 			"to": [ 9, 8.5, 12 ],
 			"faces": {
@@ -7932,7 +7688,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 8, 12 ],
 			"to": [ 9, 8.25, 12.25 ],
 			"faces": {
@@ -7940,7 +7696,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 8.25, 3.5 ],
 			"to": [ 9, 8.5, 3.75 ],
 			"faces": {
@@ -7950,7 +7706,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 8.25, 4 ],
 			"to": [ 9, 8.5, 4.25 ],
 			"faces": {
@@ -7958,7 +7714,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 8.25, 4.25 ],
 			"to": [ 9, 8.5, 4.5 ],
 			"faces": {
@@ -7967,7 +7723,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 8.25, 11.5 ],
 			"to": [ 9, 8.5, 11.75 ],
 			"faces": {
@@ -7976,7 +7732,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 8.25, 12 ],
 			"to": [ 9, 8.5, 12.25 ],
 			"faces": {
@@ -7985,7 +7741,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 8.25, 12.25 ],
 			"to": [ 9, 8.5, 12.5 ],
 			"faces": {
@@ -7995,7 +7751,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 4 ],
 			"to": [ 9, 8.75, 4.25 ],
 			"faces": {
@@ -8004,7 +7760,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 4.25 ],
 			"to": [ 9, 8.75, 4.5 ],
 			"faces": {
@@ -8012,7 +7768,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 4.75 ],
 			"to": [ 9, 8.75, 5 ],
 			"faces": {
@@ -8021,7 +7777,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 5 ],
 			"to": [ 9, 8.75, 5.25 ],
 			"faces": {
@@ -8030,7 +7786,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 5.25 ],
 			"to": [ 9, 9, 5.5 ],
 			"faces": {
@@ -8042,7 +7798,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 10.5 ],
 			"to": [ 9, 8.75, 10.75 ],
 			"faces": {
@@ -8052,7 +7808,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 10.75 ],
 			"to": [ 9, 8.75, 11.25 ],
 			"faces": {
@@ -8063,7 +7819,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 11.25 ],
 			"to": [ 9, 8.75, 11.5 ],
 			"faces": {
@@ -8072,7 +7828,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-84B5BC",
+			"__comment": "Element",
 			"from": [ 8.75, 8.5, 11.5 ],
 			"to": [ 9, 8.75, 12 ],
 			"faces": {
@@ -8083,7 +7839,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 8.75, 4 ],
 			"to": [ 9, 9, 4.25 ],
 			"faces": {
@@ -8093,7 +7849,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-87B8BF",
+			"__comment": "Element",
 			"from": [ 8.75, 8.75, 4.75 ],
 			"to": [ 9, 9, 5 ],
 			"faces": {
@@ -8102,7 +7858,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 8.75, 5 ],
 			"to": [ 9, 9, 5.25 ],
 			"faces": {
@@ -8111,7 +7867,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 8.75, 10.5 ],
 			"to": [ 9, 9, 10.75 ],
 			"faces": {
@@ -8121,7 +7877,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-83B4BB",
+			"__comment": "Element",
 			"from": [ 8.75, 8.75, 10.75 ],
 			"to": [ 9, 9, 11 ],
 			"faces": {
@@ -8130,7 +7886,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-85B6BD",
+			"__comment": "Element",
 			"from": [ 8.75, 8.75, 11 ],
 			"to": [ 9, 9, 11.25 ],
 			"faces": {
@@ -8139,7 +7895,7 @@
 			}
 		},
 		{
-			"__comment": "Voxels-86B7BE",
+			"__comment": "Element",
 			"from": [ 8.75, 8.75, 11.25 ],
 			"to": [ 9, 9, 12 ],
 			"faces": {
@@ -8156,6 +7912,11 @@
 			"rotation":  [ 0, 90, 0 ],
 			"translation":  [ 0, 9.7383, -1.391 ],
 			"scale":  [ 1.7, 1.7, 1.7 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 4.1739, 0 ],
+			"scale":  [ 1.3, 1.3, 1.3 ]
 		}
 	}
 }

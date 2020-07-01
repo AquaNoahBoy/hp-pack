@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays	with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"voxels_atlas": "cosmetics/mickeyheadb"
+		"voxels_atlas": "items/custom/mickeyheadb"
 	},
 	"elements": [ 	 
 		{

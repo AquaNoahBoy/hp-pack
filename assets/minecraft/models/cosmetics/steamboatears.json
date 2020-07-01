@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/steamboat"
+		"voxels_palette": "items/custom/steamboat"
 	},
 	"elements": [ 	 
 		{

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/tintoy"
+		"voxels_palette": "items/custom/tintoy"
 	},
 	"elements": [ 	 
 		{

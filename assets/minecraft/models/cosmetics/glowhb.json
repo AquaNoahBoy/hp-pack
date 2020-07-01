@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
 	"textures": {
-		"glowhb": "cosmetics/glowhb"
+		"glowhb": "items/custom/glowhb"
 	},
 	"elements": [ 	 
 		{
@@ -657,7 +657,8 @@
 		},
 		"fixed": {
 			"rotation":  [ 0, 90, 0 ],
-			"translation":  [ 0, 3.4782, 0 ]
+			"translation":  [ 0, 4.1739, 0 ],
+			"scale":  [ 1.3, 1.3, 1.3 ]
 		}
 	}
 }

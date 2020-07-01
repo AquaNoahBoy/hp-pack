@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/mushu"
+		"voxels_palette": "items/custom/mushu"
 	},
 	"elements": [ 	 
 		{

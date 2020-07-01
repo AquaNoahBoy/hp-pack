@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"pilot": "cosmetics/pilot"
+		"pilot": "items/custom/pilot"
 	},
 	"elements": [ 	 
 		{

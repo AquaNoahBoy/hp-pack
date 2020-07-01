@@ -1,7 +1,7 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"joey": "cosmetics/joey"
+		"joey": "items/custom/joey"
 	},
 	"elements": [
 		{

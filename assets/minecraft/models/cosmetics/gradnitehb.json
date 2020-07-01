@@ -1,4 +1,5 @@
 {
+	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
 	"textures": {
 		"gradhb": "items/custom/gradhb"
 	},
@@ -1420,5 +1421,12 @@
 				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#gradhb" }
 			}
 		}
-	]
+	],
+	"display": {
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 4.1739, 0 ],
+			"scale":  [ 1.3, 1.3, 1.3 ]
+		}
+	}
 }

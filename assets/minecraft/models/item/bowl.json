@@ -719,7 +719,7 @@
             "predicate": {
                 "custom_model_data": 120
             },
-            "model": "cosmetics/duckmouth"
+            "model": "cosmetics/gradnitehb"
 		},
 		{
             "predicate": {
@@ -822,6 +822,12 @@
                 "custom_model_data": 137
             },
             "model": "cosmetics/glowhb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 138
+            },
+            "model": "cosmetics/c3ears"
 		},
 		{
             "predicate": {
@@ -960,18 +966,6 @@
                 "custom_model_data": 161
             },
             "model": "cosmetics/orbirdears"
-		},
-		{
-            "predicate": {
-                "custom_model_data": 162
-            },
-            "model": "cosmetics/gradnitehb"
-		},
-		{
-            "predicate": {
-                "custom_model_data": 163
-            },
-            "model": "cosmetics/c3ears"
 		}
 	]
 }

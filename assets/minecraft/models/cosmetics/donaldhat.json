@@ -1,7 +1,7 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"dhat": "cosmetics/dhat"
+		"dhat": "items/custom/dhat"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
 	"parent": "cosmetics/blueears",
 	"textures":{
-		"voxels_palette": "cosmetics/pinkears"
+		"voxels_palette": "items/custom/pinkears"
 	}
 }

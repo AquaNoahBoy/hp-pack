@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by AquaPlays with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"Goofy": "cosmetics/goofy"
+		"Goofy": "items/custom/goofy"
 	},
 	"elements": [ 	 
 		{

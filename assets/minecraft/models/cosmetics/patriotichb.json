@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/patriotichb"
+		"voxels_palette": "items/custom/patriotichb"
 	},
 	"elements": [ 	 
 		{

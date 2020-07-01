@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"voxels_palette": "cosmetics/chef"
+		"voxels_palette": "items/custom/chef"
 	},
 	"elements": [ 	 
 		{

@@ -1,7 +1,7 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"happymeal": "cosmetics/happymeal"
+		"happymeal": "items/custom/happymeal"
 	},
 	"elements": [
 		{
