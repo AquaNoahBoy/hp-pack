@@ -1,0 +1,215 @@
+{
+	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
+	"textures": {
+		"robot4": "epcot/robot4"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 0, 6.8571 ],
+			"to": [ 9.142828, 1.142857, 9.142815 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4", "cullface": "down" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 9.1429, 5.7143 ],
+			"to": [ 9.142828, 11.42861, 6.857157 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-0F0F0F",
+			"from": [ 4.5714, 9.1429, 6.8571 ],
+			"to": [ 9.142828, 11.42861, 9.142815 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 9.1429, 9.1429 ],
+			"to": [ 9.142828, 11.42861, 10.28576 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 10.2857, 4.5714 ],
+			"to": [ 9.142828, 11.42856, 5.714256 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 10.2857, 10.2857 ],
+			"to": [ 9.142828, 11.42856, 11.42856 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-0F0F0F",
+			"from": [ 4.5714, 11.4286, 4.5714 ],
+			"to": [ 9.142828, 13.71431, 6.857113 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-4F4F4F",
+			"from": [ 4.5714, 11.4286, 6.8571 ],
+			"to": [ 9.142828, 13.71431, 9.142815 ],
+			"faces": {
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-0F0F0F",
+			"from": [ 4.5714, 11.4286, 9.1429 ],
+			"to": [ 9.142828, 13.71431, 11.42861 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 13.7143, 4.5714 ],
+			"to": [ 9.142828, 14.85716, 6.857113 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-0F0F0F",
+			"from": [ 4.5714, 13.7143, 6.8571 ],
+			"to": [ 9.142828, 16.00001, 9.142815 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4", "cullface": "up" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 13.7143, 9.1429 ],
+			"to": [ 9.142828, 16.00001, 10.28576 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4", "cullface": "up" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 13.7143, 10.2857 ],
+			"to": [ 9.142828, 14.85716, 11.42856 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 4.5714, 14.8571, 5.7143 ],
+			"to": [ 9.142828, 15.99996, 6.857157 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4", "cullface": "up" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 5.7143, 0, 5.7143 ],
+			"to": [ 8.000013, 1.142857, 6.857157 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4", "cullface": "down" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 5.7143, 0, 9.1429 ],
+			"to": [ 8.000013, 1.142857, 10.28576 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4", "cullface": "down" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		},
+		{
+			"__comment": "Voxels-1D1D1D",
+			"from": [ 5.7143, 1.1429, 6.8571 ],
+			"to": [ 8.000013, 9.1429, 9.142815 ],
+			"faces": {
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot4" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 16, 53, 0 ],
+			"translation":  [ 0.6956, 0, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"head": {
+			"translation":  [ 0, -1.391, 0 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"ground": {
+			"translation":  [ 0, 2.7826, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ]
+		}
+	}
+}

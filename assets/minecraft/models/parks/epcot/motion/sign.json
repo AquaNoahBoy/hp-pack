@@ -1,0 +1,48 @@
+{
+	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
+	"textures": {
+		"sign": "epcot/sign"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels",
+			"from": [ 0, 0.4638, 7.6522 ],
+			"to": [ 16, 4.173945, 8.115967 ],
+			"faces": {
+				"down": { "uv": [ 0, 11.75, 8.625, 12 ], "texture": "#sign" },
+				"up": { "uv": [ 0, 11.75, 8.625, 11.5 ], "texture": "#sign" },
+				"north": { "uv": [ 8.625, 14, 0, 16 ], "texture": "#sign" },
+				"south": { "uv": [ 0, 12, 8.625, 14 ], "texture": "#sign" },
+				"west": { "uv": [ 8.625, 14, 8.875, 16 ], "texture": "#sign", "cullface": "west" },
+				"east": { "uv": [ 9.125, 14, 8.875, 16 ], "texture": "#sign", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Voxels",
+			"from": [ 7.7681, 0, 7.7681 ],
+			"to": [ 8.231868, 0.4637681, 7.999984 ],
+			"faces": {
+				"down": { "uv": [ 9.125, 15.375, 9.375, 15.5 ], "texture": "#sign", "cullface": "down" },
+				"north": { "uv": [ 9.375, 15.75, 9.125, 16 ], "texture": "#sign" },
+				"south": { "uv": [ 9.125, 15.5, 9.375, 15.75 ], "texture": "#sign" },
+				"west": { "uv": [ 9.125, 15, 9.25, 15.25 ], "texture": "#sign" },
+				"east": { "uv": [ 9.375, 15, 9.25, 15.25 ], "texture": "#sign" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation":  [ 0, 5.5652, 0 ]
+		},
+		"head": {
+			"translation":  [ 0, 14.608, 0 ],
+			"scale":  [ 1.75, 1.75, 1.75 ]
+		},
+		"ground": {
+			"translation":  [ 0, 4.8695, 0 ]
+		},
+		"fixed": {
+			"translation":  [ 0, 5.5652, 0 ]
+		}
+	}
+}

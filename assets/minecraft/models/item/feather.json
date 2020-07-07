@@ -690,6 +690,72 @@
                 "custom_model_data": 115
             },
             "model": "parks/side/df/whitestrip"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "parks/epcot/motion/binoculars"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 117
+            },
+            "model": "parks/epcot/motion/bird1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 118
+            },
+            "model": "parks/epcot/motion/bird2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 119
+            },
+            "model": "parks/epcot/motion/musicstand"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 120
+            },
+            "model": "parks/epcot/motion/robot1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 121
+            },
+            "model": "parks/epcot/motion/robot2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 122
+            },
+            "model": "parks/epcot/motion/robot3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 123
+            },
+            "model": "parks/epcot/motion/robot4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "parks/epcot/motion/robot5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "parks/epcot/motion/robot6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 126
+            },
+            "model": "parks/epcot/motion/sign"
         }
 
     ]

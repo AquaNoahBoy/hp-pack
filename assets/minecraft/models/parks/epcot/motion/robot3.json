@@ -1,0 +1,156 @@
+{
+	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
+	"textures": {
+		"robot3": "epcot/robot3"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 0, 0, 4.8 ],
+			"to": [ 16, 1.6, 9.6 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "down" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "west" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 0, 1.6, 3.2 ],
+			"to": [ 16, 3.2, 4.8 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "west" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 0, 1.6, 4.8 ],
+			"to": [ 1.6, 3.2, 11.2 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "west" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" }
+			}
+		},
+		{
+			"__comment": "Voxels-0D0F0C",
+			"from": [ 0, 3.2, 3.2 ],
+			"to": [ 1.6, 4.8, 11.2 ],
+			"faces": {
+				"down": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot3" },
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot3" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot3", "cullface": "west" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot3" }
+			}
+		},
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 0, 4.8, 3.2 ],
+			"to": [ 16, 6.4, 4.8 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "west" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 0, 4.8, 4.8 ],
+			"to": [ 1.6, 8, 9.6 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "west" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" }
+			}
+		},
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 0, 4.8, 9.599999 ],
+			"to": [ 16, 6.4, 11.2 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "west" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 1.6, 1.6, 9.599999 ],
+			"to": [ 16, 4.8, 11.2 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 1.6, 3.2, 3.2 ],
+			"to": [ 16, 4.8, 4.8 ],
+			"faces": {
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Voxels-E3E3E3",
+			"from": [ 1.6, 6.4, 4.8 ],
+			"to": [ 16, 8, 9.6 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot3", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Voxels-767676",
+			"from": [ 14.4, 1.6, 4.8 ],
+			"to": [ 16, 6.4, 9.6 ],
+			"faces": {
+				"north": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#robot3" },
+				"south": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#robot3" },
+				"west": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#robot3" },
+				"east": { "uv": [ 12.96, 0.96, 15.04, 3.04 ], "texture": "#robot3", "cullface": "east" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 11, 41, 0 ],
+			"translation":  [ 0, 2.7826, 0 ],
+			"scale":  [ 0.7, 0.7, 0.7 ]
+		},
+		"head": {
+			"translation":  [ 0, 12.521, 0 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"ground": {
+			"translation":  [ 0, 2.7826, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

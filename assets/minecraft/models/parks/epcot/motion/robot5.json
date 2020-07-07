@@ -1,0 +1,102 @@
+{
+	"__comment": "Designed by AquaCubed for MCAmusement/HorizonParks",
+	"textures": {
+		"robot5": "epcot/robot5"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels-767676",
+			"from": [ 5.8182, 0, 1.4545 ],
+			"to": [ 10.18184, 2.909091, 2.909045 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5", "cullface": "down" },
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" }
+			}
+		},
+		{
+			"__comment": "Voxels-767676",
+			"from": [ 5.8182, 2.9091, 1.4545 ],
+			"to": [ 8.727291, 5.818191, 2.909045 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" }
+			}
+		},
+		{
+			"__comment": "Voxels-626262",
+			"from": [ 5.8182, 5.8182, 1.4545 ],
+			"to": [ 7.272745, 7.272745, 2.909045 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" }
+			}
+		},
+		{
+			"__comment": "Voxels-767676",
+			"from": [ 7.2727, 0, 0 ],
+			"to": [ 8.727245, 4.363636, 1.454545 ],
+			"faces": {
+				"down": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5", "cullface": "down" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5", "cullface": "north" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" }
+			}
+		},
+		{
+			"__comment": "Voxels-626262",
+			"from": [ 7.2727, 4.3636, 0 ],
+			"to": [ 8.727245, 5.818145, 1.454545 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5", "cullface": "north" },
+				"west": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" }
+			}
+		},
+		{
+			"__comment": "Voxels-767676",
+			"from": [ 7.2727, 5.8182, 1.4545 ],
+			"to": [ 8.727245, 8.727291, 2.909045 ],
+			"faces": {
+				"up": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"north": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"south": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"west": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" },
+				"east": { "uv": [ 4.96, 0.96, 7.04, 3.04 ], "texture": "#robot5" }
+			}
+		},
+		{
+			"__comment": "Voxels-626262",
+			"from": [ 8.7273, 2.9091, 1.4545 ],
+			"to": [ 10.18184, 4.363646, 2.909045 ],
+			"faces": {
+				"up": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" },
+				"north": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" },
+				"south": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" },
+				"east": { "uv": [ 8.96, 0.96, 11.04, 3.04 ], "texture": "#robot5" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 14, 169, 0 ],
+			"translation":  [ 1.3913, 4.1739, 0 ]
+		},
+		"head": {
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"fixed": {
+			"translation":  [ 0, 2.7826, 5.5652 ]
+		}
+	}
+}
