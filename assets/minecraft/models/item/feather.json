@@ -756,6 +756,12 @@
                 "custom_model_data": 126
             },
             "model": "parks/epcot/motion/sign"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 127
+            },
+            "model": "parks/epcot/jiiwall"
         }
 
     ]
