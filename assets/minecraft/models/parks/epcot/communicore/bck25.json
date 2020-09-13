@@ -1,0 +1,6 @@
+{
+   "parent": "parks/epcot/communicore/bck1",
+   "textures": {
+		"0": "epcot/backstage/s25"
+   }
+}
