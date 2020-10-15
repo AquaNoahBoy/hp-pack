@@ -762,6 +762,12 @@
                 "custom_model_data": 127
             },
             "model": "parks/epcot/jiiwall"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 128
+            },
+            "model": "parks/character/plutohead"
         }
 
     ]

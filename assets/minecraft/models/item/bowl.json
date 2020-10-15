@@ -95,7 +95,7 @@
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "cosmetics/crownhat"
+            "model": "cosmetics/crown"
         },
         {
             "predicate": {
@@ -966,6 +966,462 @@
                 "custom_model_data": 161
             },
             "model": "cosmetics/orbirdears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 162
+            },
+            "model": "cosmetics/usflag"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 163
+            },
+            "model": "cosmetics/sameagle"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 164
+            },
+            "model": "cosmetics/prideears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 165
+            },
+            "model": "cosmetics/pridehb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 166
+            },
+            "model": "cosmetics/forky"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 167
+            },
+            "model": "cosmetics/mannycap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 168
+            },
+            "model": "cosmetics/lenny"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 169
+            },
+            "model": "cosmetics/peas"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 170
+            },
+            "model": "cosmetics/meap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 171
+            },
+            "model": "cosmetics/wheezy"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 172
+            },
+            "model": "cosmetics/mikecap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 173
+            },
+            "model": "cosmetics/perrycap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 174
+            },
+            "model": "cosmetics/burgerears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 175
+            },
+            "model": "cosmetics/gmrears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 176
+            },
+            "model": "cosmetics/gmrcast"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 177
+            },
+            "model": "cosmetics/mikeweyecap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 178
+            },
+            "model": "cosmetics/birdshoulder"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 179
+            },
+            "model": "cosmetics/mickeycaphybrid"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 180
+            },
+            "model": "cosmetics/russelcap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 181
+            },
+            "model": "cosmetics/goofyhb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 182
+            },
+            "model": "cosmetics/dolehb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 183
+            },
+            "model": "cosmetics/ghostmick"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 184
+            },
+            "model": "cosmetics/screamcanister"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 185
+            },
+            "model": "cosmetics/pumpkinears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 186
+            },
+            "model": "cosmetics/kodos"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 187
+            },
+            "model": "cosmetics/headaxe"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 188
+            },
+            "model": "cosmetics/zombieears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 189
+            },
+            "model": "cosmetics/tothb2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 190
+            },
+            "model": "cosmetics/treatpale1"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 191
+            },
+            "model": "cosmetics/treatpale2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 192
+            },
+            "model": "cosmetics/treatpale3"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 193
+            },
+            "model": "cosmetics/mickeybackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 194
+            },
+            "model": "cosmetics/minniebackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 195
+            },
+            "model": "cosmetics/plutobackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 196
+            },
+            "model": "cosmetics/stitchbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 197
+            },
+            "model": "cosmetics/pumpkinpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 198
+            },
+            "model": "cosmetics/goofybackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 199
+            },
+            "model": "cosmetics/kermitbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "cosmetics/yodabackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 201
+            },
+            "model": "cosmetics/donaldhb2"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 202
+            },
+            "model": "cosmetics/speedmask"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 203
+            },
+            "model": "cosmetics/drfhat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 204
+            },
+            "model": "cosmetics/buzzbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 205
+            },
+            "model": "cosmetics/r2d2backpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 206
+            },
+            "model": "cosmetics/ppbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 207
+            },
+            "model": "cosmetics/poisonapple"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 208
+            },
+            "model": "cosmetics/mikebackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 209
+            },
+            "model": "cosmetics/pineapplebackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 210
+            },
+            "model": "cosmetics/jafarhat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 211
+            },
+            "model": "cosmetics/hook"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 212
+            },
+            "model": "cosmetics/spidermanpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 213
+            },
+            "model": "cosmetics/witchhat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 214
+            },
+            "model": "cosmetics/monstersbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 215
+            },
+            "model": "cosmetics/convertiblepack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 216
+            },
+            "model": "cosmetics/card"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 217
+            },
+            "model": "cosmetics/orangebirdbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 218
+            },
+            "model": "cosmetics/horseman"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 219
+            },
+            "model": "cosmetics/bingbonghb"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 220
+            },
+            "model": "cosmetics/ghostmickpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 221
+            },
+            "model": "cosmetics/poohbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 222
+            },
+            "model": "cosmetics/captainamericabackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 223
+            },
+            "model": "cosmetics/oogiehat"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 224
+            },
+            "model": "cosmetics/iago"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 225
+            },
+            "model": "cosmetics/maleficentstaff"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 226
+            },
+            "model": "cosmetics/genielamp"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 227
+            },
+            "model": "cosmetics/woodybackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 228
+            },
+            "model": "cosmetics/snowmancap"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 229
+            },
+            "model": "cosmetics/coffinbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 230
+            },
+            "model": "cosmetics/cauldronbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 231
+            },
+            "model": "cosmetics/skellingtonears"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 232
+            },
+            "model": "cosmetics/sullybackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 233
+            },
+            "model": "cosmetics/heimlichbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "cosmetics/thorbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 235
+            },
+            "model": "cosmetics/cptnmarvelbackpack"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 236
+            },
+            "model": "cosmetics/orangebird"
+		},
+		{
+            "predicate": {
+                "custom_model_data": 237
+            },
+            "model": "cosmetics/donaldbackpack"
 		}
 	]
 }
