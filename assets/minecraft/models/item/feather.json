@@ -768,6 +768,18 @@
                 "custom_model_data": 128
             },
             "model": "parks/character/plutohead"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 129
+            },
+            "model": "parks/side/tt/tt_doorl"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 130
+            },
+            "model": "parks/side/tt/tt_doorr"
         }
 
     ]
