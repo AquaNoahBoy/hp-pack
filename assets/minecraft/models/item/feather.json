@@ -780,6 +780,60 @@
                 "custom_model_data": 130
             },
             "model": "parks/side/tt/tt_doorr"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 131
+            },
+            "model": "parks/side/tt/pre/mon1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 132
+            },
+            "model": "parks/side/tt/pre/mon2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 133
+            },
+            "model": "parks/side/tt/pre/mon3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 134
+            },
+            "model": "parks/side/tt/pre/mon4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "parks/side/tt/pre/mon5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "parks/side/tt/pre/mon6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 137
+            },
+            "model": "parks/side/tt/pre/mon7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 138
+            },
+            "model": "parks/side/tt/pre/mon8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 139
+            },
+            "model": "parks/side/tt/pre/mon9"
         }
 
     ]
