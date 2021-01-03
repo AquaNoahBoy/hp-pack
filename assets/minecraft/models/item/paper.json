@@ -282,6 +282,120 @@
                 "custom_model_data": 47
             },
             "model": "parks/epcot/communicore/bck46"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "parks/side/tt/pre/mon0"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "parks/side/tt/pre/mon1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "parks/side/tt/pre/mon2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "parks/side/tt/pre/mon3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "parks/side/tt/pre/mon4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "parks/side/tt/pre/mon5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "parks/side/tt/pre/mon6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "parks/side/tt/pre/mon7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "parks/side/tt/pre/mon8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "parks/side/tt/pre/mon9"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 58
+            },
+            "model": "parks/side/tt/pre/side1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 59
+            },
+            "model": "parks/side/tt/pre/side2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "parks/side/tt/pre/side3"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "parks/side/tt/pre/side4"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "parks/side/tt/pre/side5"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "parks/side/tt/pre/side6"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "parks/side/tt/pre/side7"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "parks/side/tt/pre/side8"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 66
+            },
+            "model": "parks/side/tt/pre/side9"
         }
 	]
 }

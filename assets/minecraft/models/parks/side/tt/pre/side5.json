@@ -1,0 +1,11 @@
+{
+   "parent": "parks/side/tt/pre/mon0",
+   "textures": {
+		"3": "side/tt/pre/side/5"
+	},
+	"display": {
+		"head": {
+			"scale":  [ 1, 1, 1 ]
+		}
+	}
+}

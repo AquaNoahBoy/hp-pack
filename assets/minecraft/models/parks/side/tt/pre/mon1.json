@@ -2,5 +2,5 @@
    "parent": "parks/side/tt/pre/mon0",
    "textures": {
 		"3": "side/tt/pre/main/1"
-	},
+	}
 }
