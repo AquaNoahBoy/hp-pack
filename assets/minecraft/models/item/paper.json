@@ -396,6 +396,12 @@
                 "custom_model_data": 66
             },
             "model": "parks/side/tt/pre/side9"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 67
+            },
+            "model": "parks/side/tt/pre/side10"
         }
 	]
 }
