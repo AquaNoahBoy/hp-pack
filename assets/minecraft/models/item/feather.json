@@ -780,6 +780,30 @@
                 "custom_model_data": 130
             },
             "model": "parks/side/tt/tt_doorr"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 131
+            },
+            "model": "parks/side/tt/tt_heatoff"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 132
+            },
+            "model": "parks/side/tt/tt_heaton"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 133
+            },
+            "model": "parks/side/tt/blmon0"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 134
+            },
+            "model": "parks/side/tt/blmon1"
         }
     ]
 }
