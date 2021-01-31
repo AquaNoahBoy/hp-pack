@@ -557,19 +557,19 @@
             "predicate": {
                 "custom_model_data": 93
             },
-            "model": "parks/side/tt/bdoor"
+            "model": "parks/side/tt/wdoor"
         },
 		{
             "predicate": {
                 "custom_model_data": 94
             },
-            "model": "parks/side/tt/graydoor"
+            "model": "parks/side/tt/gdoor"
         },
 		{
             "predicate": {
                 "custom_model_data": 95
             },
-            "model": "parks/side/tt/reddoor"
+            "model": "parks/side/tt/rdoor"
         },
 		{
             "predicate": {
@@ -593,7 +593,7 @@
             "predicate": {
                 "custom_model_data": 99
             },
-            "model": "parks/side/tt/whitedoor"
+            "model": "parks/side/tt/bldoor"
         },
 		{
             "predicate": {
@@ -804,6 +804,12 @@
                 "custom_model_data": 134
             },
             "model": "parks/side/tt/blmon1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 135
+            },
+            "model": "parks/side/tt/lgdoor"
         }
     ]
 }

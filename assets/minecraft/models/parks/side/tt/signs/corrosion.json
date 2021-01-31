@@ -1,0 +1,23 @@
+{
+	"credit": "Made for use on MCA/HP",
+	"textures": {
+		"0": "side/tt/signs/corrosion chamber sign",
+		"particle": "side/tt/signs/corrosion chamber sign"
+	},
+	"elements": [
+		{
+			"from": [-4.5, 0, 7.95],
+			"to": [20.5, 7, 8.05],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [8.55579, 15.49474, 13.54105, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-1, -2, 0]
+		}
+	}
+}

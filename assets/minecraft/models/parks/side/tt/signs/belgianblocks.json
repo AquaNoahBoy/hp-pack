@@ -1,0 +1,23 @@
+{
+	"credit": "Made for use on MCA/HP",
+	"textures": {
+		"0": "side/tt/signs/belgian blocks sign",
+		"particle": "side/tt/signs/belgian blocks sign"
+	},
+	"elements": [
+		{
+			"from": [-0.5, 0, 7.95],
+			"to": [16.5, 10, 8.05],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [12.61538, 15.46154, 14.46154, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-1, -2, 0]
+		}
+	}
+}
