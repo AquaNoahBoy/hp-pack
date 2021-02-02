@@ -810,6 +810,78 @@
                 "custom_model_data": 135
             },
             "model": "parks/side/tt/lgdoor"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "parks/side/tt/signs/barriertest1"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 137
+            },
+            "model": "parks/side/tt/signs/barriertest2"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 138
+            },
+            "model": "parks/side/tt/signs/belgianblocks"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 139
+            },
+            "model": "parks/side/tt/signs/braketest"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 140
+            },
+            "model": "parks/side/tt/signs/cold"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 141
+            },
+            "model": "parks/side/tt/signs/corrosion"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 142
+            },
+            "model": "parks/side/tt/signs/environmental"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 143
+            },
+            "model": "parks/side/tt/signs/german"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 144
+            },
+            "model": "parks/side/tt/signs/heat"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 145
+            },
+            "model": "parks/side/tt/signs/hill"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 146
+            },
+            "model": "parks/side/tt/signs/ridehandling"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 147
+            },
+            "model": "parks/side/tt/signs/thermal"
         }
     ]
 }
