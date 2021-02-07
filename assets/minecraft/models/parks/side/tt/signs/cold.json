@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "side/tt/signs/cold chamber sign",
-		"particle": "side/tt/signs/cold chamber sign"
+		"0": "side/tt/signs/cold",
+		"particle": "side/tt/signs/cold"
 	},
 	"elements": [
 		{
@@ -18,6 +18,10 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-1, -2, 0]
+		},
+		"head": {
+			"translation": [0, 7.75, 0],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	}
 }

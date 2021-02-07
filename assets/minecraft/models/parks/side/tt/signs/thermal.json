@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "side/tt/signs/thermal imaging sign",
-		"particle": "side/tt/signs/thermal imaging sign"
+		"0": "side/tt/signs/thermal",
+		"particle": "side/tt/signs/thermal"
 	},
 	"elements": [
 		{
@@ -18,6 +18,10 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-1, -2, 0]
+		},
+		"head": {
+			"translation": [0, 10.75, 0],
+			"scale": [1.3, 1.8, 1.8]
 		}
 	}
 }

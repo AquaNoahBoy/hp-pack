@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "side/tt/signs/brake test sign",
-		"particle": "side/tt/signs/brake test sign"
+		"0": "side/tt/signs/brake",
+		"particle": "side/tt/signs/brake"
 	},
 	"elements": [
 		{
@@ -18,6 +18,10 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-1, -2, 0]
+		},
+		"head": {
+			"translation": [0, 13, 0],
+			"scale": [2.15, 2.15, 2.15]
 		}
 	}
 }

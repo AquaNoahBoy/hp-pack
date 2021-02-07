@@ -1,8 +1,8 @@
 {
 	"credit": "Made for use on MCA/HP",
 	"textures": {
-		"0": "side/tt/signs/german blocks",
-		"particle": "side/tt/signs/german blocks"
+		"0": "side/tt/signs/german",
+		"particle": "side/tt/signs/german"
 	},
 	"elements": [
 		{
@@ -18,6 +18,10 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-1, -2, 0]
+		},
+		"head": {
+			"translation": [0, 4, 0],
+			"scale": [1.2, 1.2, 1.2]
 		}
 	}
 }
