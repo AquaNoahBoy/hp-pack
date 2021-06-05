@@ -882,6 +882,12 @@
                 "custom_model_data": 147
             },
             "model": "parks/side/tt/signs/thermal"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 148
+            },
+            "model": "parks/epcot/fwtrash"
         }
     ]
 }
